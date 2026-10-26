@@ -1,0 +1,87 @@
+{
+  "linguistic_competence": [
+    {
+      "level": "L1",
+      "count": 71,
+      "example": "积木倒了"
+    },
+    {
+      "level": "L2",
+      "count": 63,
+      "example": "叶子掉下来是因为风大"
+    },
+    {
+      "level": "L3",
+      "count": 66,
+      "example": "如果声音跑得慢，雷声就像迟到的快递员"
+    }
+  ],
+  "emotional_flow_complexity": {
+    "E1": 74,
+    "E2": 64,
+    "E3": 62
+  },
+  "emotion_distribution": {
+    "Neutral": 337,
+    "Concerned": 83,
+    "Happy": 1082,
+    "Angry": 118,
+    "Sad": 26,
+    "Questioning": 183,
+    "Surprised": 273,
+    "Disgusted": 21
+  },
+  "emotion_transitions": [
+    {
+      "layer1": "Neutral",
+      "layer2": "Happy",
+      "layer3": "Surprised",
+      "count": 8
+    },
+    {
+      "layer1": "Happy",
+      "layer2": "Surprised",
+      "layer3": "Questioning",
+      "count": 5
+    },
+    {
+      "layer1": "Concerned",
+      "layer2": "Sad",
+      "layer3": "Neutral",
+      "count": 7
+    },
+    {
+      "layer1": "Sad",
+      "layer2": "Neutral",
+      "layer3": "Happy",
+      "count": 6
+    },
+    {
+      "layer1": "Angry",
+      "layer2": "Concerned",
+      "layer3": "Sad",
+      "count": 4
+    },
+    {
+      "layer1": "Surprised",
+      "layer2": "Questioning",
+      "layer3": "Neutral",
+      "count": 3
+    }
+  ],
+  
+  "interest_orientation": {
+    "STEM探索": {
+      "物理现象": 44,
+      "生物观察": 34
+    },
+    "创意表达": {
+      "艺术创作": 34,
+      "角色扮演": 31
+    },
+    "社会情感": {
+      "冲突解决": 29,
+      "自我认知": 28
+    }
+  }
+}

@@ -1,0 +1,10215 @@
+{
+  "child_utterance_count": 2123,
+  "average_utterance_length": 5.1,
+  "vocabulary_size": 2552,
+  "vocabulary_frequency": [
+    {
+      "token": "画",
+      "count": 171
+    },
+    {
+      "token": "不会",
+      "count": 164
+    },
+    {
+      "token": "想",
+      "count": 141
+    },
+    {
+      "token": "觉得",
+      "count": 129
+    },
+    {
+      "token": "好像",
+      "count": 122
+    },
+    {
+      "token": "我要",
+      "count": 102
+    },
+    {
+      "token": "真的",
+      "count": 98
+    },
+    {
+      "token": "是不是",
+      "count": 92
+    },
+    {
+      "token": "今天",
+      "count": 84
+    },
+    {
+      "token": "可能",
+      "count": 82
+    },
+    {
+      "token": "喜欢",
+      "count": 78
+    },
+    {
+      "token": "星星",
+      "count": 73
+    },
+    {
+      "token": "魔法",
+      "count": 70
+    },
+    {
+      "token": "颜色",
+      "count": 69
+    },
+    {
+      "token": "听",
+      "count": 69
+    },
+    {
+      "token": "起来",
+      "count": 69
+    },
+    {
+      "token": "玩",
+      "count": 68
+    },
+    {
+      "token": "一只",
+      "count": 65
+    },
+    {
+      "token": "知道",
+      "count": 65
+    },
+    {
+      "token": "吃",
+      "count": 63
+    },
+    {
+      "token": "彩虹",
+      "count": 61
+    },
+    {
+      "token": "一起",
+      "count": 58
+    },
+    {
+      "token": "有点",
+      "count": 58
+    },
+    {
+      "token": "好多",
+      "count": 56
+    },
+    {
+      "token": "飞",
+      "count": 55
+    },
+    {
+      "token": "它会",
+      "count": 54
+    },
+    {
+      "token": "太阳",
+      "count": 53
+    },
+    {
+      "token": "里",
+      "count": 52
+    },
+    {
+      "token": "水",
+      "count": 52
+    },
+    {
+      "token": "我会",
+      "count": 50
+    },
+    {
+      "token": "泡泡",
+      "count": 50
+    },
+    {
+      "token": "试试",
+      "count": 49
+    },
+    {
+      "token": "变成",
+      "count": 49
+    },
+    {
+      "token": "特别",
+      "count": 49
+    },
+    {
+      "token": "没有",
+      "count": 47
+    },
+    {
+      "token": "树",
+      "count": 47
+    },
+    {
+      "token": "蓝色",
+      "count": 45
+    },
+    {
+      "token": "好玩",
+      "count": 44
+    },
+    {
+      "token": "生气",
+      "count": 44
+    },
+    {
+      "token": "厉害",
+      "count": 43
+    },
+    {
+      "token": "东西",
+      "count": 43
+    },
+    {
+      "token": "妈妈",
+      "count": 41
+    },
+    {
+      "token": "猫",
+      "count": 41
+    },
+    {
+      "token": "现在",
+      "count": 40
+    },
+    {
+      "token": "云",
+      "count": 40
+    },
+    {
+      "token": "红色",
+      "count": 39
+    },
+    {
+      "token": "一定",
+      "count": 39
+    },
+    {
+      "token": "看到",
+      "count": 38
+    },
+    {
+      "token": "超级",
+      "count": 38
+    },
+    {
+      "token": "小鸟",
+      "count": 37
+    },
+    {
+      "token": "找",
+      "count": 37
+    },
+    {
+      "token": "一点",
+      "count": 35
+    },
+    {
+      "token": "开心",
+      "count": 35
+    },
+    {
+      "token": "实验",
+      "count": 34
+    },
+    {
+      "token": "朋友",
+      "count": 34
+    },
+    {
+      "token": "跑",
+      "count": 33
+    },
+    {
+      "token": "没",
+      "count": 33
+    },
+    {
+      "token": "糖果",
+      "count": 33
+    },
+    {
+      "token": "气球",
+      "count": 32
+    },
+    {
+      "token": "天上",
+      "count": 31
+    },
+    {
+      "token": "我画",
+      "count": 30
+    },
+    {
+      "token": "有趣",
+      "count": 30
+    },
+    {
+      "token": "月亮",
+      "count": 30
+    },
+    {
+      "token": "感觉",
+      "count": 30
+    },
+    {
+      "token": "发光",
+      "count": 29
+    },
+    {
+      "token": "告诉",
+      "count": 29
+    },
+    {
+      "token": "跳",
+      "count": 29
+    },
+    {
+      "token": "一直",
+      "count": 28
+    },
+    {
+      "token": "藏",
+      "count": 28
+    },
+    {
+      "token": "看起来",
+      "count": 27
+    },
+    {
+      "token": "地方",
+      "count": 27
+    },
+    {
+      "token": "哈哈哈",
+      "count": 27
+    },
+    {
+      "token": "说话",
+      "count": 27
+    },
+    {
+      "token": "城堡",
+      "count": 26
+    },
+    {
+      "token": "高",
+      "count": 26
+    },
+    {
+      "token": "笑",
+      "count": 26
+    },
+    {
+      "token": "住",
+      "count": 26
+    },
+    {
+      "token": "虫子",
+      "count": 26
+    },
+    {
+      "token": "动物",
+      "count": 25
+    },
+    {
+      "token": "快",
+      "count": 25
+    },
+    {
+      "token": "森林",
+      "count": 25
+    },
+    {
+      "token": "唱歌",
+      "count": 25
+    },
+    {
+      "token": "太",
+      "count": 24
+    },
+    {
+      "token": "加",
+      "count": 23
+    },
+    {
+      "token": "找到",
+      "count": 23
+    },
+    {
+      "token": "以后",
+      "count": 23
+    },
+    {
+      "token": "下次",
+      "count": 23
+    },
+    {
+      "token": "老师",
+      "count": 23
+    },
+    {
+      "token": "蚂蚁",
+      "count": 23
+    },
+    {
+      "token": "原来",
+      "count": 22
+    },
+    {
+      "token": "秘密",
+      "count": 22
+    },
+    {
+      "token": "叶子",
+      "count": 22
+    },
+    {
+      "token": "绿色",
+      "count": 22
+    },
+    {
+      "token": "糖",
+      "count": 21
+    },
+    {
+      "token": "天空",
+      "count": 21
+    },
+    {
+      "token": "肯定",
+      "count": 21
+    },
+    {
+      "token": "翅膀",
+      "count": 21
+    },
+    {
+      "token": "奶奶",
+      "count": 20
+    },
+    {
+      "token": "吹",
+      "count": 20
+    },
+    {
+      "token": "有时候",
+      "count": 20
+    },
+    {
+      "token": "玩具",
+      "count": 20
+    },
+    {
+      "token": "帮",
+      "count": 20
+    },
+    {
+      "token": "好看",
+      "count": 20
+    },
+    {
+      "token": "小时候",
+      "count": 20
+    },
+    {
+      "token": "怪兽",
+      "count": 20
+    },
+    {
+      "token": "主意",
+      "count": 19
+    },
+    {
+      "token": "先",
+      "count": 19
+    },
+    {
+      "token": "也许",
+      "count": 19
+    },
+    {
+      "token": "里面",
+      "count": 19
+    },
+    {
+      "token": "眼睛",
+      "count": 19
+    },
+    {
+      "token": "飞到",
+      "count": 19
+    },
+    {
+      "token": "风",
+      "count": 19
+    },
+    {
+      "token": "冒险",
+      "count": 18
+    },
+    {
+      "token": "神奇",
+      "count": 18
+    },
+    {
+      "token": "偷偷",
+      "count": 18
+    },
+    {
+      "token": "抢",
+      "count": 18
+    },
+    {
+      "token": "石头",
+      "count": 18
+    },
+    {
+      "token": "饺子",
+      "count": 18
+    },
+    {
+      "token": "很多",
+      "count": 18
+    },
+    {
+      "token": "云朵",
+      "count": 17
+    },
+    {
+      "token": "尾巴",
+      "count": 17
+    },
+    {
+      "token": "可爱",
+      "count": 17
+    },
+    {
+      "token": "会变",
+      "count": 17
+    },
+    {
+      "token": "样子",
+      "count": 17
+    },
+    {
+      "token": "小猫",
+      "count": 17
+    },
+    {
+      "token": "跳舞",
+      "count": 17
+    },
+    {
+      "token": "问",
+      "count": 17
+    },
+    {
+      "token": "带",
+      "count": 17
+    },
+    {
+      "token": "狐狸",
+      "count": 17
+    },
+    {
+      "token": "谢谢",
+      "count": 16
+    },
+    {
+      "token": "科学实验",
+      "count": 16
+    },
+    {
+      "token": "走",
+      "count": 16
+    },
+    {
+      "token": "还会",
+      "count": 16
+    },
+    {
+      "token": "发现",
+      "count": 16
+    },
+    {
+      "token": "不能",
+      "count": 16
+    },
+    {
+      "token": "故事",
+      "count": 16
+    },
+    {
+      "token": "怪物",
+      "count": 15
+    },
+    {
+      "token": "龙",
+      "count": 15
+    },
+    {
+      "token": "一点点",
+      "count": 15
+    },
+    {
+      "token": "看看",
+      "count": 15
+    },
+    {
+      "token": "变得",
+      "count": 15
+    },
+    {
+      "token": "很大",
+      "count": 15
+    },
+    {
+      "token": "掉",
+      "count": 15
+    },
+    {
+      "token": "不要",
+      "count": 15
+    },
+    {
+      "token": "应该",
+      "count": 15
+    },
+    {
+      "token": "真",
+      "count": 15
+    },
+    {
+      "token": "变",
+      "count": 15
+    },
+    {
+      "token": "我能",
+      "count": 14
+    },
+    {
+      "token": "保护",
+      "count": 14
+    },
+    {
+      "token": "会飞",
+      "count": 14
+    },
+    {
+      "token": "飞得",
+      "count": 14
+    },
+    {
+      "token": "黄色",
+      "count": 14
+    },
+    {
+      "token": "完",
+      "count": 14
+    },
+    {
+      "token": "奇怪",
+      "count": 14
+    },
+    {
+      "token": "不想",
+      "count": 14
+    },
+    {
+      "token": "房子",
+      "count": 14
+    },
+    {
+      "token": "彩色",
+      "count": 14
+    },
+    {
+      "token": "宝藏",
+      "count": 14
+    },
+    {
+      "token": "火焰",
+      "count": 13
+    },
+    {
+      "token": "怕",
+      "count": 13
+    },
+    {
+      "token": "家",
+      "count": 13
+    },
+    {
+      "token": "旁边",
+      "count": 13
+    },
+    {
+      "token": "准备",
+      "count": 13
+    },
+    {
+      "token": "树上",
+      "count": 13
+    },
+    {
+      "token": "棉花",
+      "count": 13
+    },
+    {
+      "token": "世界",
+      "count": 13
+    },
+    {
+      "token": "画画",
+      "count": 13
+    },
+    {
+      "token": "写",
+      "count": 13
+    },
+    {
+      "token": "气体",
+      "count": 13
+    },
+    {
+      "token": "紫色",
+      "count": 13
+    },
+    {
+      "token": "坏人",
+      "count": 12
+    },
+    {
+      "token": "需要",
+      "count": 12
+    },
+    {
+      "token": "漂亮",
+      "count": 12
+    },
+    {
+      "token": "试试看",
+      "count": 12
+    },
+    {
+      "token": "耳朵",
+      "count": 12
+    },
+    {
+      "token": "兔子",
+      "count": 12
+    },
+    {
+      "token": "种子",
+      "count": 12
+    },
+    {
+      "token": "点点",
+      "count": 12
+    },
+    {
+      "token": "鱼",
+      "count": 12
+    },
+    {
+      "token": "讲",
+      "count": 12
+    },
+    {
+      "token": "魔法师",
+      "count": 11
+    },
+    {
+      "token": "好吃",
+      "count": 11
+    },
+    {
+      "token": "爸爸",
+      "count": 11
+    },
+    {
+      "token": "进去",
+      "count": 11
+    },
+    {
+      "token": "醋",
+      "count": 11
+    },
+    {
+      "token": "想要",
+      "count": 11
+    },
+    {
+      "token": "大树",
+      "count": 11
+    },
+    {
+      "token": "那种",
+      "count": 11
+    },
+    {
+      "token": "掉下来",
+      "count": 11
+    },
+    {
+      "token": "总是",
+      "count": 11
+    },
+    {
+      "token": "长",
+      "count": 11
+    },
+    {
+      "token": "空气",
+      "count": 11
+    },
+    {
+      "token": "聪明",
+      "count": 11
+    },
+    {
+      "token": "唱",
+      "count": 11
+    },
+    {
+      "token": "小狗",
+      "count": 11
+    },
+    {
+      "token": "沙发",
+      "count": 11
+    },
+    {
+      "token": "一幅",
+      "count": 10
+    },
+    {
+      "token": "有没有",
+      "count": 10
+    },
+    {
+      "token": "超",
+      "count": 10
+    },
+    {
+      "token": "我试",
+      "count": 10
+    },
+    {
+      "token": "一下",
+      "count": 10
+    },
+    {
+      "token": "大大的",
+      "count": 10
+    },
+    {
+      "token": "好酷",
+      "count": 10
+    },
+    {
+      "token": "喝",
+      "count": 10
+    },
+    {
+      "token": "小精灵",
+      "count": 10
+    },
+    {
+      "token": "小苏打",
+      "count": 10
+    },
+    {
+      "token": "摸",
+      "count": 10
+    },
+    {
+      "token": "精灵",
+      "count": 10
+    },
+    {
+      "token": "蝴蝶",
+      "count": 10
+    },
+    {
+      "token": "火箭",
+      "count": 10
+    },
+    {
+      "token": "晚上",
+      "count": 10
+    },
+    {
+      "token": "乌龟",
+      "count": 10
+    },
+    {
+      "token": "我加",
+      "count": 10
+    },
+    {
+      "token": "老虎",
+      "count": 10
+    },
+    {
+      "token": "下面",
+      "count": 9
+    },
+    {
+      "token": "耶",
+      "count": 9
+    },
+    {
+      "token": "接下来",
+      "count": 9
+    },
+    {
+      "token": "杯子",
+      "count": 9
+    },
+    {
+      "token": "一次",
+      "count": 9
+    },
+    {
+      "token": "回来",
+      "count": 9
+    },
+    {
+      "token": "捉迷藏",
+      "count": 9
+    },
+    {
+      "token": "不到",
+      "count": 9
+    },
+    {
+      "token": "放",
+      "count": 9
+    },
+    {
+      "token": "猫咪",
+      "count": 9
+    },
+    {
+      "token": "草",
+      "count": 9
+    },
+    {
+      "token": "树会",
+      "count": 9
+    },
+    {
+      "token": "不让",
+      "count": 9
+    },
+    {
+      "token": "吵架",
+      "count": 9
+    },
+    {
+      "token": "下雨",
+      "count": 9
+    },
+    {
+      "token": "说不定",
+      "count": 9
+    },
+    {
+      "token": "试",
+      "count": 9
+    },
+    {
+      "token": "哥哥",
+      "count": 9
+    },
+    {
+      "token": "还给",
+      "count": 9
+    },
+    {
+      "token": "懂",
+      "count": 9
+    },
+    {
+      "token": "那树",
+      "count": 9
+    },
+    {
+      "token": "鸟",
+      "count": 9
+    },
+    {
+      "token": "蜘蛛",
+      "count": 9
+    },
+    {
+      "token": "喷",
+      "count": 8
+    },
+    {
+      "token": "草地",
+      "count": 8
+    },
+    {
+      "token": "宝宝",
+      "count": 8
+    },
+    {
+      "token": "挺",
+      "count": 8
+    },
+    {
+      "token": "英雄",
+      "count": 8
+    },
+    {
+      "token": "名字",
+      "count": 8
+    },
+    {
+      "token": "积木",
+      "count": 8
+    },
+    {
+      "token": "我怕",
+      "count": 8
+    },
+    {
+      "token": "不错",
+      "count": 8
+    },
+    {
+      "token": "害怕",
+      "count": 8
+    },
+    {
+      "token": "冰淇淋",
+      "count": 8
+    },
+    {
+      "token": "希望",
+      "count": 8
+    },
+    {
+      "token": "地上",
+      "count": 8
+    },
+    {
+      "token": "一条",
+      "count": 8
+    },
+    {
+      "token": "冷",
+      "count": 8
+    },
+    {
+      "token": "努力",
+      "count": 8
+    },
+    {
+      "token": "国王",
+      "count": 8
+    },
+    {
+      "token": "声音",
+      "count": 8
+    },
+    {
+      "token": "发出",
+      "count": 8
+    },
+    {
+      "token": "明天",
+      "count": 8
+    },
+    {
+      "token": "我用",
+      "count": 8
+    },
+    {
+      "token": "事情",
+      "count": 8
+    },
+    {
+      "token": "恐龙",
+      "count": 8
+    },
+    {
+      "token": "倒",
+      "count": 8
+    },
+    {
+      "token": "地球",
+      "count": 8
+    },
+    {
+      "token": "噢",
+      "count": 8
+    },
+    {
+      "token": "山洞",
+      "count": 7
+    },
+    {
+      "token": "穿",
+      "count": 7
+    },
+    {
+      "token": "很亮",
+      "count": 7
+    },
+    {
+      "token": "学校",
+      "count": 7
+    },
+    {
+      "token": "粉红色",
+      "count": 7
+    },
+    {
+      "token": "草莓",
+      "count": 7
+    },
+    {
+      "token": "味",
+      "count": 7
+    },
+    {
+      "token": "一颗",
+      "count": 7
+    },
+    {
+      "token": "假装",
+      "count": 7
+    },
+    {
+      "token": "太酷",
+      "count": 7
+    },
+    {
+      "token": "味道",
+      "count": 7
+    },
+    {
+      "token": "神秘",
+      "count": 7
+    },
+    {
+      "token": "总",
+      "count": 7
+    },
+    {
+      "token": "学",
+      "count": 7
+    },
+    {
+      "token": "比赛",
+      "count": 7
+    },
+    {
+      "token": "黄",
+      "count": 7
+    },
+    {
+      "token": "休息",
+      "count": 7
+    },
+    {
+      "token": "吃饭",
+      "count": 7
+    },
+    {
+      "token": "圆",
+      "count": 7
+    },
+    {
+      "token": "已经",
+      "count": 7
+    },
+    {
+      "token": "一棵",
+      "count": 7
+    },
+    {
+      "token": "树叶",
+      "count": 7
+    },
+    {
+      "token": "不好",
+      "count": 7
+    },
+    {
+      "token": "坏",
+      "count": 7
+    },
+    {
+      "token": "咪咪",
+      "count": 7
+    },
+    {
+      "token": "不行",
+      "count": 7
+    },
+    {
+      "token": "刚刚",
+      "count": 7
+    },
+    {
+      "token": "雨",
+      "count": 7
+    },
+    {
+      "token": "勇敢",
+      "count": 7
+    },
+    {
+      "token": "教",
+      "count": 7
+    },
+    {
+      "token": "不理",
+      "count": 7
+    },
+    {
+      "token": "后来",
+      "count": 7
+    },
+    {
+      "token": "画个",
+      "count": 7
+    },
+    {
+      "token": "出",
+      "count": 7
+    },
+    {
+      "token": "后面",
+      "count": 7
+    },
+    {
+      "token": "地图",
+      "count": 7
+    },
+    {
+      "token": "危险",
+      "count": 7
+    },
+    {
+      "token": "高兴",
+      "count": 7
+    },
+    {
+      "token": "橙色",
+      "count": 7
+    },
+    {
+      "token": "爬",
+      "count": 7
+    },
+    {
+      "token": "壳",
+      "count": 7
+    },
+    {
+      "token": "听到",
+      "count": 6
+    },
+    {
+      "token": "宝石",
+      "count": 6
+    },
+    {
+      "token": "飞去",
+      "count": 6
+    },
+    {
+      "token": "派对",
+      "count": 6
+    },
+    {
+      "token": "好棒",
+      "count": 6
+    },
+    {
+      "token": "喷火",
+      "count": 6
+    },
+    {
+      "token": "吸管",
+      "count": 6
+    },
+    {
+      "token": "笑脸",
+      "count": 6
+    },
+    {
+      "token": "墨镜",
+      "count": 6
+    },
+    {
+      "token": "每个",
+      "count": 6
+    },
+    {
+      "token": "小朋友",
+      "count": 6
+    },
+    {
+      "token": "画好",
+      "count": 6
+    },
+    {
+      "token": "脸",
+      "count": 6
+    },
+    {
+      "token": "植物",
+      "count": 6
+    },
+    {
+      "token": "花",
+      "count": 6
+    },
+    {
+      "token": "帮助",
+      "count": 6
+    },
+    {
+      "token": "棒",
+      "count": 6
+    },
+    {
+      "token": "游戏",
+      "count": 6
+    },
+    {
+      "token": "不同",
+      "count": 6
+    },
+    {
+      "token": "难",
+      "count": 6
+    },
+    {
+      "token": "王国",
+      "count": 6
+    },
+    {
+      "token": "昨天",
+      "count": 6
+    },
+    {
+      "token": "我家",
+      "count": 6
+    },
+    {
+      "token": "难过",
+      "count": 6
+    },
+    {
+      "token": "那会",
+      "count": 6
+    },
+    {
+      "token": "干嘛",
+      "count": 6
+    },
+    {
+      "token": "道理",
+      "count": 6
+    },
+    {
+      "token": "迷路",
+      "count": 6
+    },
+    {
+      "token": "弟弟",
+      "count": 6
+    },
+    {
+      "token": "试着",
+      "count": 6
+    },
+    {
+      "token": "小树",
+      "count": 6
+    },
+    {
+      "token": "弄",
+      "count": 6
+    },
+    {
+      "token": "水会",
+      "count": 6
+    },
+    {
+      "token": "阳光",
+      "count": 6
+    },
+    {
+      "token": "冰块",
+      "count": 6
+    },
+    {
+      "token": "只能",
+      "count": 6
+    },
+    {
+      "token": "衣服",
+      "count": 6
+    },
+    {
+      "token": "蛋糕",
+      "count": 6
+    },
+    {
+      "token": "陪",
+      "count": 6
+    },
+    {
+      "token": "睡觉",
+      "count": 6
+    },
+    {
+      "token": "探险",
+      "count": 6
+    },
+    {
+      "token": "越来越",
+      "count": 6
+    },
+    {
+      "token": "他会",
+      "count": 6
+    },
+    {
+      "token": "跟着",
+      "count": 6
+    },
+    {
+      "token": "零食",
+      "count": 6
+    },
+    {
+      "token": "闹钟",
+      "count": 6
+    },
+    {
+      "token": "大象",
+      "count": 6
+    },
+    {
+      "token": "吓跑",
+      "count": 5
+    },
+    {
+      "token": "有个",
+      "count": 5
+    },
+    {
+      "token": "发亮",
+      "count": 5
+    },
+    {
+      "token": "帮忙",
+      "count": 5
+    },
+    {
+      "token": "力量",
+      "count": 5
+    },
+    {
+      "token": "问题",
+      "count": 5
+    },
+    {
+      "token": "站",
+      "count": 5
+    },
+    {
+      "token": "爱",
+      "count": 5
+    },
+    {
+      "token": "挺酷",
+      "count": 5
+    },
+    {
+      "token": "闪亮",
+      "count": 5
+    },
+    {
+      "token": "太棒了",
+      "count": 5
+    },
+    {
+      "token": "愿意",
+      "count": 5
+    },
+    {
+      "token": "黑",
+      "count": 5
+    },
+    {
+      "token": "小龙",
+      "count": 5
+    },
+    {
+      "token": "热",
+      "count": 5
+    },
+    {
+      "token": "赢",
+      "count": 5
+    },
+    {
+      "token": "有点像",
+      "count": 5
+    },
+    {
+      "token": "小兔子",
+      "count": 5
+    },
+    {
+      "token": "条纹",
+      "count": 5
+    },
+    {
+      "token": "嘴巴",
+      "count": 5
+    },
+    {
+      "token": "身体",
+      "count": 5
+    },
+    {
+      "token": "腿",
+      "count": 5
+    },
+    {
+      "token": "行",
+      "count": 5
+    },
+    {
+      "token": "骂",
+      "count": 5
+    },
+    {
+      "token": "直接",
+      "count": 5
+    },
+    {
+      "token": "怪",
+      "count": 5
+    },
+    {
+      "token": "戴",
+      "count": 5
+    },
+    {
+      "token": "工作",
+      "count": 5
+    },
+    {
+      "token": "没用",
+      "count": 5
+    },
+    {
+      "token": "眼镜",
+      "count": 5
+    },
+    {
+      "token": "路",
+      "count": 5
+    },
+    {
+      "token": "没事",
+      "count": 5
+    },
+    {
+      "token": "记得",
+      "count": 5
+    },
+    {
+      "token": "家里",
+      "count": 5
+    },
+    {
+      "token": "为啥",
+      "count": 5
+    },
+    {
+      "token": "吸气",
+      "count": 5
+    },
+    {
+      "token": "前面",
+      "count": 5
+    },
+    {
+      "token": "过去",
+      "count": 5
+    },
+    {
+      "token": "一块",
+      "count": 5
+    },
+    {
+      "token": "云会",
+      "count": 5
+    },
+    {
+      "token": "蓝",
+      "count": 5
+    },
+    {
+      "token": "云里",
+      "count": 5
+    },
+    {
+      "token": "那云",
+      "count": 5
+    },
+    {
+      "token": "看着",
+      "count": 5
+    },
+    {
+      "token": "像是",
+      "count": 5
+    },
+    {
+      "token": "好大",
+      "count": 5
+    },
+    {
+      "token": "超大",
+      "count": 5
+    },
+    {
+      "token": "慢慢",
+      "count": 5
+    },
+    {
+      "token": "很酷",
+      "count": 5
+    },
+    {
+      "token": "容易",
+      "count": 5
+    },
+    {
+      "token": "桥",
+      "count": 5
+    },
+    {
+      "token": "亮亮的",
+      "count": 5
+    },
+    {
+      "token": "高高的",
+      "count": 5
+    },
+    {
+      "token": "紧张",
+      "count": 5
+    },
+    {
+      "token": "远",
+      "count": 5
+    },
+    {
+      "token": "红红的",
+      "count": 5
+    },
+    {
+      "token": "回家",
+      "count": 5
+    },
+    {
+      "token": "打开",
+      "count": 5
+    },
+    {
+      "token": "歌",
+      "count": 5
+    },
+    {
+      "token": "比较",
+      "count": 5
+    },
+    {
+      "token": "皇冠",
+      "count": 5
+    },
+    {
+      "token": "真好玩",
+      "count": 5
+    },
+    {
+      "token": "抓",
+      "count": 5
+    },
+    {
+      "token": "闪电",
+      "count": 5
+    },
+    {
+      "token": "果汁",
+      "count": 5
+    },
+    {
+      "token": "鼓起来",
+      "count": 5
+    },
+    {
+      "token": "抓住",
+      "count": 5
+    },
+    {
+      "token": "火山",
+      "count": 5
+    },
+    {
+      "token": "滑梯",
+      "count": 5
+    },
+    {
+      "token": "搬",
+      "count": 5
+    },
+    {
+      "token": "一边",
+      "count": 5
+    },
+    {
+      "token": "穿衣服",
+      "count": 5
+    },
+    {
+      "token": "公园",
+      "count": 5
+    },
+    {
+      "token": "很漂亮",
+      "count": 5
+    },
+    {
+      "token": "流星",
+      "count": 5
+    },
+    {
+      "token": "最后",
+      "count": 5
+    },
+    {
+      "token": "游戏吧",
+      "count": 4
+    },
+    {
+      "token": "召唤",
+      "count": 4
+    },
+    {
+      "token": "色",
+      "count": 4
+    },
+    {
+      "token": "里会",
+      "count": 4
+    },
+    {
+      "token": "赶快",
+      "count": 4
+    },
+    {
+      "token": "闪闪发亮",
+      "count": 4
+    },
+    {
+      "token": "机关",
+      "count": 4
+    },
+    {
+      "token": "轻轻",
+      "count": 4
+    },
+    {
+      "token": "骑士",
+      "count": 4
+    },
+    {
+      "token": "每次",
+      "count": 4
+    },
+    {
+      "token": "手",
+      "count": 4
+    },
+    {
+      "token": "胡萝卜",
+      "count": 4
+    },
+    {
+      "token": "球",
+      "count": 4
+    },
+    {
+      "token": "火山爆发",
+      "count": 4
+    },
+    {
+      "token": "刚才",
+      "count": 4
+    },
+    {
+      "token": "科学",
+      "count": 4
+    },
+    {
+      "token": "闪闪",
+      "count": 4
+    },
+    {
+      "token": "披风",
+      "count": 4
+    },
+    {
+      "token": "骑",
+      "count": 4
+    },
+    {
+      "token": "摘",
+      "count": 4
+    },
+    {
+      "token": "很多很多",
+      "count": 4
+    },
+    {
+      "token": "弄坏了",
+      "count": 4
+    },
+    {
+      "token": "事",
+      "count": 4
+    },
+    {
+      "token": "甜",
+      "count": 4
+    },
+    {
+      "token": "黏",
+      "count": 4
+    },
+    {
+      "token": "船",
+      "count": 4
+    },
+    {
+      "token": "玩吧",
+      "count": 4
+    },
+    {
+      "token": "注意",
+      "count": 4
+    },
+    {
+      "token": "欸",
+      "count": 4
+    },
+    {
+      "token": "鼻子",
+      "count": 4
+    },
+    {
+      "token": "沙漠",
+      "count": 4
+    },
+    {
+      "token": "冬天",
+      "count": 4
+    },
+    {
+      "token": "爸爸妈妈",
+      "count": 4
+    },
+    {
+      "token": "玩游戏",
+      "count": 4
+    },
+    {
+      "token": "笑声",
+      "count": 4
+    },
+    {
+      "token": "魔杖",
+      "count": 4
+    },
+    {
+      "token": "能带",
+      "count": 4
+    },
+    {
+      "token": "好不好",
+      "count": 4
+    },
+    {
+      "token": "话",
+      "count": 4
+    },
+    {
+      "token": "遇到",
+      "count": 4
+    },
+    {
+      "token": "跳来跳去",
+      "count": 4
+    },
+    {
+      "token": "上面",
+      "count": 4
+    },
+    {
+      "token": "好多好多",
+      "count": 4
+    },
+    {
+      "token": "巫师",
+      "count": 4
+    },
+    {
+      "token": "抱",
+      "count": 4
+    },
+    {
+      "token": "跳跳",
+      "count": 4
+    },
+    {
+      "token": "瓶子",
+      "count": 4
+    },
+    {
+      "token": "外面",
+      "count": 4
+    },
+    {
+      "token": "呼气",
+      "count": 4
+    },
+    {
+      "token": "牛奶",
+      "count": 4
+    },
+    {
+      "token": "龙骑士",
+      "count": 4
+    },
+    {
+      "token": "方向",
+      "count": 4
+    },
+    {
+      "token": "试一试",
+      "count": 4
+    },
+    {
+      "token": "灰",
+      "count": 4
+    },
+    {
+      "token": "做梦",
+      "count": 4
+    },
+    {
+      "token": "参加",
+      "count": 4
+    },
+    {
+      "token": "五颜六色",
+      "count": 4
+    },
+    {
+      "token": "灯",
+      "count": 4
+    },
+    {
+      "token": "包",
+      "count": 4
+    },
+    {
+      "token": "做好",
+      "count": 4
+    },
+    {
+      "token": "幸福",
+      "count": 4
+    },
+    {
+      "token": "破",
+      "count": 4
+    },
+    {
+      "token": "轻",
+      "count": 4
+    },
+    {
+      "token": "搅拌",
+      "count": 4
+    },
+    {
+      "token": "蘑菇",
+      "count": 4
+    },
+    {
+      "token": "水变",
+      "count": 4
+    },
+    {
+      "token": "颜料",
+      "count": 4
+    },
+    {
+      "token": "涂",
+      "count": 4
+    },
+    {
+      "token": "长长的",
+      "count": 4
+    },
+    {
+      "token": "跑得快",
+      "count": 4
+    },
+    {
+      "token": "白",
+      "count": 4
+    },
+    {
+      "token": "好开心",
+      "count": 4
+    },
+    {
+      "token": "同学",
+      "count": 4
+    },
+    {
+      "token": "帽子",
+      "count": 4
+    },
+    {
+      "token": "两个",
+      "count": 4
+    },
+    {
+      "token": "聊天",
+      "count": 4
+    },
+    {
+      "token": "挂",
+      "count": 4
+    },
+    {
+      "token": "舒服",
+      "count": 4
+    },
+    {
+      "token": "明白",
+      "count": 4
+    },
+    {
+      "token": "小草",
+      "count": 4
+    },
+    {
+      "token": "要画",
+      "count": 4
+    },
+    {
+      "token": "观察",
+      "count": 4
+    },
+    {
+      "token": "会长",
+      "count": 4
+    },
+    {
+      "token": "饭",
+      "count": 4
+    },
+    {
+      "token": "动",
+      "count": 4
+    },
+    {
+      "token": "咚咚",
+      "count": 4
+    },
+    {
+      "token": "呼",
+      "count": 4
+    },
+    {
+      "token": "掉下去",
+      "count": 4
+    },
+    {
+      "token": "送",
+      "count": 4
+    },
+    {
+      "token": "冰激凌",
+      "count": 4
+    },
+    {
+      "token": "那太",
+      "count": 4
+    },
+    {
+      "token": "尖",
+      "count": 4
+    },
+    {
+      "token": "圆圆的",
+      "count": 4
+    },
+    {
+      "token": "软软",
+      "count": 4
+    },
+    {
+      "token": "大海",
+      "count": 4
+    },
+    {
+      "token": "太空",
+      "count": 4
+    },
+    {
+      "token": "谜题",
+      "count": 4
+    },
+    {
+      "token": "每天",
+      "count": 4
+    },
+    {
+      "token": "我想",
+      "count": 4
+    },
+    {
+      "token": "快点",
+      "count": 4
+    },
+    {
+      "token": "形状",
+      "count": 4
+    },
+    {
+      "token": "是因为",
+      "count": 4
+    },
+    {
+      "token": "紫",
+      "count": 4
+    },
+    {
+      "token": "小花",
+      "count": 4
+    },
+    {
+      "token": "重要",
+      "count": 4
+    },
+    {
+      "token": "蜜蜂",
+      "count": 4
+    },
+    {
+      "token": "办法",
+      "count": 4
+    },
+    {
+      "token": "橡皮",
+      "count": 4
+    },
+    {
+      "token": "怎么弄",
+      "count": 4
+    },
+    {
+      "token": "饼干",
+      "count": 4
+    },
+    {
+      "token": "一根",
+      "count": 4
+    },
+    {
+      "token": "亮",
+      "count": 4
+    },
+    {
+      "token": "下去",
+      "count": 4
+    },
+    {
+      "token": "妹妹",
+      "count": 4
+    },
+    {
+      "token": "深呼吸",
+      "count": 4
+    },
+    {
+      "token": "家庭",
+      "count": 4
+    },
+    {
+      "token": "房间",
+      "count": 4
+    },
+    {
+      "token": "一张",
+      "count": 4
+    },
+    {
+      "token": "山",
+      "count": 4
+    },
+    {
+      "token": "水里",
+      "count": 4
+    },
+    {
+      "token": "好难",
+      "count": 4
+    },
+    {
+      "token": "碰到",
+      "count": 4
+    },
+    {
+      "token": "电视",
+      "count": 4
+    },
+    {
+      "token": "怪怪的",
+      "count": 4
+    },
+    {
+      "token": "痛痛",
+      "count": 4
+    },
+    {
+      "token": "小猫咪",
+      "count": 4
+    },
+    {
+      "token": "开",
+      "count": 4
+    },
+    {
+      "token": "拿走",
+      "count": 4
+    },
+    {
+      "token": "久",
+      "count": 4
+    },
+    {
+      "token": "决定",
+      "count": 4
+    },
+    {
+      "token": "冰",
+      "count": 4
+    },
+    {
+      "token": "做个",
+      "count": 3
+    },
+    {
+      "token": "斗篷",
+      "count": 3
+    },
+    {
+      "token": "敌人",
+      "count": 3
+    },
+    {
+      "token": "火",
+      "count": 3
+    },
+    {
+      "token": "就让",
+      "count": 3
+    },
+    {
+      "token": "云彩",
+      "count": 3
+    },
+    {
+      "token": "水和油",
+      "count": 3
+    },
+    {
+      "token": "答案",
+      "count": 3
+    },
+    {
+      "token": "喷出来",
+      "count": 3
+    },
+    {
+      "token": "一件",
+      "count": 3
+    },
+    {
+      "token": "围着",
+      "count": 3
+    },
+    {
+      "token": "基地",
+      "count": 3
+    },
+    {
+      "token": "小心",
+      "count": 3
+    },
+    {
+      "token": "头",
+      "count": 3
+    },
+    {
+      "token": "最高",
+      "count": 3
+    },
+    {
+      "token": "小明",
+      "count": 3
+    },
+    {
+      "token": "搭",
+      "count": 3
+    },
+    {
+      "token": "戴帽子",
+      "count": 3
+    },
+    {
+      "token": "猜",
+      "count": 3
+    },
+    {
+      "token": "星球",
+      "count": 3
+    },
+    {
+      "token": "不太好",
+      "count": 3
+    },
+    {
+      "token": "新",
+      "count": 3
+    },
+    {
+      "token": "好烦",
+      "count": 3
+    },
+    {
+      "token": "笨",
+      "count": 3
+    },
+    {
+      "token": "气",
+      "count": 3
+    },
+    {
+      "token": "有人",
+      "count": 3
+    },
+    {
+      "token": "明明",
+      "count": 3
+    },
+    {
+      "token": "肚子",
+      "count": 3
+    },
+    {
+      "token": "发生",
+      "count": 3
+    },
+    {
+      "token": "下雪",
+      "count": 3
+    },
+    {
+      "token": "做饭",
+      "count": 3
+    },
+    {
+      "token": "好听",
+      "count": 3
+    },
+    {
+      "token": "能飞",
+      "count": 3
+    },
+    {
+      "token": "只会",
+      "count": 3
+    },
+    {
+      "token": "明星",
+      "count": 3
+    },
+    {
+      "token": "闪闪发光",
+      "count": 3
+    },
+    {
+      "token": "饿肚子",
+      "count": 3
+    },
+    {
+      "token": "老",
+      "count": 3
+    },
+    {
+      "token": "你好",
+      "count": 3
+    },
+    {
+      "token": "认真",
+      "count": 3
+    },
+    {
+      "token": "作业",
+      "count": 3
+    },
+    {
+      "token": "听得懂",
+      "count": 3
+    },
+    {
+      "token": "想着",
+      "count": 3
+    },
+    {
+      "token": "确实",
+      "count": 3
+    },
+    {
+      "token": "小马",
+      "count": 3
+    },
+    {
+      "token": "飞天",
+      "count": 3
+    },
+    {
+      "token": "一朵",
+      "count": 3
+    },
+    {
+      "token": "一座",
+      "count": 3
+    },
+    {
+      "token": "剑",
+      "count": 3
+    },
+    {
+      "token": "看上去",
+      "count": 3
+    },
+    {
+      "token": "表演",
+      "count": 3
+    },
+    {
+      "token": "超酷",
+      "count": 3
+    },
+    {
+      "token": "飞上去",
+      "count": 3
+    },
+    {
+      "token": "巨大",
+      "count": 3
+    },
+    {
+      "token": "变出",
+      "count": 3
+    },
+    {
+      "token": "继续",
+      "count": 3
+    },
+    {
+      "token": "变来变去",
+      "count": 3
+    },
+    {
+      "token": "云上",
+      "count": 3
+    },
+    {
+      "token": "梦",
+      "count": 3
+    },
+    {
+      "token": "想到",
+      "count": 3
+    },
+    {
+      "token": "乐队",
+      "count": 3
+    },
+    {
+      "token": "想象",
+      "count": 3
+    },
+    {
+      "token": "包得",
+      "count": 3
+    },
+    {
+      "token": "没关系",
+      "count": 3
+    },
+    {
+      "token": "煮",
+      "count": 3
+    },
+    {
+      "token": "学会",
+      "count": 3
+    },
+    {
+      "token": "意思",
+      "count": 3
+    },
+    {
+      "token": "成功",
+      "count": 3
+    },
+    {
+      "token": "飞来飞去",
+      "count": 3
+    },
+    {
+      "token": "简单",
+      "count": 3
+    },
+    {
+      "token": "糖会",
+      "count": 3
+    },
+    {
+      "token": "树枝",
+      "count": 3
+    },
+    {
+      "token": "跳得",
+      "count": 3
+    },
+    {
+      "token": "挑",
+      "count": 3
+    },
+    {
+      "token": "放到",
+      "count": 3
+    },
+    {
+      "token": "胡子",
+      "count": 3
+    },
+    {
+      "token": "害羞",
+      "count": 3
+    },
+    {
+      "token": "透明",
+      "count": 3
+    },
+    {
+      "token": "海边",
+      "count": 3
+    },
+    {
+      "token": "考试",
+      "count": 3
+    },
+    {
+      "token": "问问",
+      "count": 3
+    },
+    {
+      "token": "烦",
+      "count": 3
+    },
+    {
+      "token": "放在",
+      "count": 3
+    },
+    {
+      "token": "消失",
+      "count": 3
+    },
+    {
+      "token": "晒",
+      "count": 3
+    },
+    {
+      "token": "去过",
+      "count": 3
+    },
+    {
+      "token": "慢",
+      "count": 3
+    },
+    {
+      "token": "突然",
+      "count": 3
+    },
+    {
+      "token": "喷得",
+      "count": 3
+    },
+    {
+      "token": "坐",
+      "count": 3
+    },
+    {
+      "token": "海底",
+      "count": 3
+    },
+    {
+      "token": "长得",
+      "count": 3
+    },
+    {
+      "token": "姥姥",
+      "count": 3
+    },
+    {
+      "token": "摔",
+      "count": 3
+    },
+    {
+      "token": "舞",
+      "count": 3
+    },
+    {
+      "token": "乱",
+      "count": 3
+    },
+    {
+      "token": "太好了",
+      "count": 3
+    },
+    {
+      "token": "诶",
+      "count": 3
+    },
+    {
+      "token": "绿",
+      "count": 3
+    },
+    {
+      "token": "安静",
+      "count": 3
+    },
+    {
+      "token": "踩",
+      "count": 3
+    },
+    {
+      "token": "泥巴",
+      "count": 3
+    },
+    {
+      "token": "整个",
+      "count": 3
+    },
+    {
+      "token": "吃掉",
+      "count": 3
+    },
+    {
+      "token": "生活",
+      "count": 3
+    },
+    {
+      "token": "公平",
+      "count": 3
+    },
+    {
+      "token": "关系",
+      "count": 3
+    },
+    {
+      "token": "蓝莓",
+      "count": 3
+    },
+    {
+      "token": "那风",
+      "count": 3
+    },
+    {
+      "token": "累",
+      "count": 3
+    },
+    {
+      "token": "真想",
+      "count": 3
+    },
+    {
+      "token": "氧气",
+      "count": 3
+    },
+    {
+      "token": "咒语",
+      "count": 3
+    },
+    {
+      "token": "这是",
+      "count": 3
+    },
+    {
+      "token": "爆炸",
+      "count": 3
+    },
+    {
+      "token": "好好笑",
+      "count": 3
+    },
+    {
+      "token": "做成",
+      "count": 3
+    },
+    {
+      "token": "追",
+      "count": 3
+    },
+    {
+      "token": "玩具车",
+      "count": 3
+    },
+    {
+      "token": "隐藏",
+      "count": 3
+    },
+    {
+      "token": "小星星",
+      "count": 3
+    },
+    {
+      "token": "喷水",
+      "count": 3
+    },
+    {
+      "token": "写字",
+      "count": 3
+    },
+    {
+      "token": "水晶",
+      "count": 3
+    },
+    {
+      "token": "选",
+      "count": 3
+    },
+    {
+      "token": "加点",
+      "count": 3
+    },
+    {
+      "token": "开花",
+      "count": 3
+    },
+    {
+      "token": "硬币",
+      "count": 3
+    },
+    {
+      "token": "花纹",
+      "count": 3
+    },
+    {
+      "token": "热闹",
+      "count": 3
+    },
+    {
+      "token": "一部分",
+      "count": 3
+    },
+    {
+      "token": "成",
+      "count": 3
+    },
+    {
+      "token": "捡",
+      "count": 3
+    },
+    {
+      "token": "偷",
+      "count": 3
+    },
+    {
+      "token": "死",
+      "count": 3
+    },
+    {
+      "token": "救",
+      "count": 3
+    },
+    {
+      "token": "白天",
+      "count": 3
+    },
+    {
+      "token": "答对",
+      "count": 3
+    },
+    {
+      "token": "烫",
+      "count": 3
+    },
+    {
+      "token": "只好",
+      "count": 3
+    },
+    {
+      "token": "食物",
+      "count": 3
+    },
+    {
+      "token": "黑色",
+      "count": 3
+    },
+    {
+      "token": "白白的",
+      "count": 3
+    },
+    {
+      "token": "感受",
+      "count": 3
+    },
+    {
+      "token": "安全",
+      "count": 3
+    },
+    {
+      "token": "讲故事",
+      "count": 3
+    },
+    {
+      "token": "酷",
+      "count": 3
+    },
+    {
+      "token": "讨厌",
+      "count": 3
+    },
+    {
+      "token": "白色",
+      "count": 3
+    },
+    {
+      "token": "发明",
+      "count": 3
+    },
+    {
+      "token": "更好",
+      "count": 3
+    },
+    {
+      "token": "飞过",
+      "count": 3
+    },
+    {
+      "token": "爱心",
+      "count": 3
+    },
+    {
+      "token": "歪",
+      "count": 3
+    },
+    {
+      "token": "转圈圈",
+      "count": 3
+    },
+    {
+      "token": "粉色",
+      "count": 3
+    },
+    {
+      "token": "巧克力",
+      "count": 3
+    },
+    {
+      "token": "红",
+      "count": 3
+    },
+    {
+      "token": "走路",
+      "count": 3
+    },
+    {
+      "token": "螳螂",
+      "count": 3
+    },
+    {
+      "token": "人类",
+      "count": 3
+    },
+    {
+      "token": "太多",
+      "count": 3
+    },
+    {
+      "token": "音乐盒",
+      "count": 3
+    },
+    {
+      "token": "松鼠",
+      "count": 3
+    },
+    {
+      "token": "漫画",
+      "count": 3
+    },
+    {
+      "token": "天",
+      "count": 3
+    },
+    {
+      "token": "很烦",
+      "count": 3
+    },
+    {
+      "token": "猫会",
+      "count": 3
+    },
+    {
+      "token": "镜子",
+      "count": 3
+    },
+    {
+      "token": "线索",
+      "count": 3
+    },
+    {
+      "token": "邀请",
+      "count": 3
+    },
+    {
+      "token": "喵",
+      "count": 3
+    },
+    {
+      "token": "不动",
+      "count": 3
+    },
+    {
+      "token": "喷发",
+      "count": 3
+    },
+    {
+      "token": "原来如此",
+      "count": 3
+    },
+    {
+      "token": "飞龙",
+      "count": 3
+    },
+    {
+      "token": "彩虹桥",
+      "count": 3
+    },
+    {
+      "token": "翻跟头",
+      "count": 3
+    },
+    {
+      "token": "水泡",
+      "count": 3
+    },
+    {
+      "token": "光光",
+      "count": 3
+    },
+    {
+      "token": "火龙",
+      "count": 2
+    },
+    {
+      "token": "烈焰",
+      "count": 2
+    },
+    {
+      "token": "牙",
+      "count": 2
+    },
+    {
+      "token": "进",
+      "count": 2
+    },
+    {
+      "token": "天呐",
+      "count": 2
+    },
+    {
+      "token": "瞬间",
+      "count": 2
+    },
+    {
+      "token": "距离",
+      "count": 2
+    },
+    {
+      "token": "逃跑",
+      "count": 2
+    },
+    {
+      "token": "伙伴",
+      "count": 2
+    },
+    {
+      "token": "龙会",
+      "count": 2
+    },
+    {
+      "token": "摘下来",
+      "count": 2
+    },
+    {
+      "token": "材料",
+      "count": 2
+    },
+    {
+      "token": "家有",
+      "count": 2
+    },
+    {
+      "token": "倒好",
+      "count": 2
+    },
+    {
+      "token": "分开",
+      "count": 2
+    },
+    {
+      "token": "我来",
+      "count": 2
+    },
+    {
+      "token": "喷气",
+      "count": 2
+    },
+    {
+      "token": "少",
+      "count": 2
+    },
+    {
+      "token": "拯救",
+      "count": 2
+    },
+    {
+      "token": "侠",
+      "count": 2
+    },
+    {
+      "token": "交朋友",
+      "count": 2
+    },
+    {
+      "token": "身上",
+      "count": 2
+    },
+    {
+      "token": "说不出口",
+      "count": 2
+    },
+    {
+      "token": "吃太多",
+      "count": 2
+    },
+    {
+      "token": "多次",
+      "count": 2
+    },
+    {
+      "token": "冲得",
+      "count": 2
+    },
+    {
+      "token": "算",
+      "count": 2
+    },
+    {
+      "token": "跑步",
+      "count": 2
+    },
+    {
+      "token": "三角形",
+      "count": 2
+    },
+    {
+      "token": "空空",
+      "count": 2
+    },
+    {
+      "token": "委屈",
+      "count": 2
+    },
+    {
+      "token": "错",
+      "count": 2
+    },
+    {
+      "token": "醒来",
+      "count": 2
+    },
+    {
+      "token": "永远",
+      "count": 2
+    },
+    {
+      "token": "远远",
+      "count": 2
+    },
+    {
+      "token": "最快",
+      "count": 2
+    },
+    {
+      "token": "留",
+      "count": 2
+    },
+    {
+      "token": "头上",
+      "count": 2
+    },
+    {
+      "token": "叶绿素",
+      "count": 2
+    },
+    {
+      "token": "怎么回事",
+      "count": 2
+    },
+    {
+      "token": "孤单",
+      "count": 2
+    },
+    {
+      "token": "穿过",
+      "count": 2
+    },
+    {
+      "token": "长满",
+      "count": 2
+    },
+    {
+      "token": "道路",
+      "count": 2
+    },
+    {
+      "token": "沙沙",
+      "count": 2
+    },
+    {
+      "token": "响",
+      "count": 2
+    },
+    {
+      "token": "我慢",
+      "count": 2
+    },
+    {
+      "token": "建议",
+      "count": 2
+    },
+    {
+      "token": "很难",
+      "count": 2
+    },
+    {
+      "token": "做到",
+      "count": 2
+    },
+    {
+      "token": "躲",
+      "count": 2
+    },
+    {
+      "token": "书架上",
+      "count": 2
+    },
+    {
+      "token": "书",
+      "count": 2
+    },
+    {
+      "token": "篮子",
+      "count": 2
+    },
+    {
+      "token": "咒",
+      "count": 2
+    },
+    {
+      "token": "造",
+      "count": 2
+    },
+    {
+      "token": "护盾",
+      "count": 2
+    },
+    {
+      "token": "一把",
+      "count": 2
+    },
+    {
+      "token": "鸭子",
+      "count": 2
+    },
+    {
+      "token": "咬",
+      "count": 2
+    },
+    {
+      "token": "见到",
+      "count": 2
+    },
+    {
+      "token": "跑掉",
+      "count": 2
+    },
+    {
+      "token": "跑来跑去",
+      "count": 2
+    },
+    {
+      "token": "搭档",
+      "count": 2
+    },
+    {
+      "token": "反正",
+      "count": 2
+    },
+    {
+      "token": "漂浮",
+      "count": 2
+    },
+    {
+      "token": "机器人",
+      "count": 2
+    },
+    {
+      "token": "看见",
+      "count": 2
+    },
+    {
+      "token": "激动",
+      "count": 2
+    },
+    {
+      "token": "盘子",
+      "count": 2
+    },
+    {
+      "token": "惊讶",
+      "count": 2
+    },
+    {
+      "token": "独眼",
+      "count": 2
+    },
+    {
+      "token": "袋",
+      "count": 2
+    },
+    {
+      "token": "丢",
+      "count": 2
+    },
+    {
+      "token": "一堆",
+      "count": 2
+    },
+    {
+      "token": "金色",
+      "count": 2
+    },
+    {
+      "token": "饿",
+      "count": 2
+    },
+    {
+      "token": "小帽子",
+      "count": 2
+    },
+    {
+      "token": "负责",
+      "count": 2
+    },
+    {
+      "token": "弹",
+      "count": 2
+    },
+    {
+      "token": "适合",
+      "count": 2
+    },
+    {
+      "token": "欢乐",
+      "count": 2
+    },
+    {
+      "token": "我学",
+      "count": 2
+    },
+    {
+      "token": "馅",
+      "count": 2
+    },
+    {
+      "token": "练习",
+      "count": 2
+    },
+    {
+      "token": "家人",
+      "count": 2
+    },
+    {
+      "token": "用力",
+      "count": 2
+    },
+    {
+      "token": "湿",
+      "count": 2
+    },
+    {
+      "token": "碰",
+      "count": 2
+    },
+    {
+      "token": "破掉",
+      "count": 2
+    },
+    {
+      "token": "可惜",
+      "count": 2
+    },
+    {
+      "token": "不破",
+      "count": 2
+    },
+    {
+      "token": "动来动去",
+      "count": 2
+    },
+    {
+      "token": "变厚",
+      "count": 2
+    },
+    {
+      "token": "立刻",
+      "count": 2
+    },
+    {
+      "token": "加糖",
+      "count": 2
+    },
+    {
+      "token": "入口",
+      "count": 2
+    },
+    {
+      "token": "山顶",
+      "count": 2
+    },
+    {
+      "token": "泉水",
+      "count": 2
+    },
+    {
+      "token": "谜语",
+      "count": 2
+    },
+    {
+      "token": "两种",
+      "count": 2
+    },
+    {
+      "token": "乱动",
+      "count": 2
+    },
+    {
+      "token": "柜子",
+      "count": 2
+    },
+    {
+      "token": "搞坏",
+      "count": 2
+    },
+    {
+      "token": "窗户",
+      "count": 2
+    },
+    {
+      "token": "摆动",
+      "count": 2
+    },
+    {
+      "token": "声",
+      "count": 2
+    },
+    {
+      "token": "其实",
+      "count": 2
+    },
+    {
+      "token": "没考",
+      "count": 2
+    },
+    {
+      "token": "麻烦",
+      "count": 2
+    },
+    {
+      "token": "忍不住",
+      "count": 2
+    },
+    {
+      "token": "姐姐",
+      "count": 2
+    },
+    {
+      "token": "暖暖的",
+      "count": 2
+    },
+    {
+      "token": "河",
+      "count": 2
+    },
+    {
+      "token": "影子",
+      "count": 2
+    },
+    {
+      "token": "玩水",
+      "count": 2
+    },
+    {
+      "token": "看不见",
+      "count": 2
+    },
+    {
+      "token": "晒太阳",
+      "count": 2
+    },
+    {
+      "token": "分享",
+      "count": 2
+    },
+    {
+      "token": "胖胖的",
+      "count": 2
+    },
+    {
+      "token": "好帅",
+      "count": 2
+    },
+    {
+      "token": "周围",
+      "count": 2
+    },
+    {
+      "token": "鳞片",
+      "count": 2
+    },
+    {
+      "token": "光合作用",
+      "count": 2
+    },
+    {
+      "token": "会烧",
+      "count": 2
+    },
+    {
+      "token": "好亮",
+      "count": 2
+    },
+    {
+      "token": "梯子",
+      "count": 2
+    },
+    {
+      "token": "一架",
+      "count": 2
+    },
+    {
+      "token": "瞪",
+      "count": 2
+    },
+    {
+      "token": "酸酸的",
+      "count": 2
+    },
+    {
+      "token": "很着急",
+      "count": 2
+    },
+    {
+      "token": "以前",
+      "count": 2
+    },
+    {
+      "token": "肚子疼",
+      "count": 2
+    },
+    {
+      "token": "这种",
+      "count": 2
+    },
+    {
+      "token": "自然",
+      "count": 2
+    },
+    {
+      "token": "换",
+      "count": 2
+    },
+    {
+      "token": "珊瑚礁",
+      "count": 2
+    },
+    {
+      "token": "画大",
+      "count": 2
+    },
+    {
+      "token": "加进去",
+      "count": 2
+    },
+    {
+      "token": "哭",
+      "count": 2
+    },
+    {
+      "token": "超人",
+      "count": 2
+    },
+    {
+      "token": "摇摇",
+      "count": 2
+    },
+    {
+      "token": "出发",
+      "count": 2
+    },
+    {
+      "token": "有画",
+      "count": 2
+    },
+    {
+      "token": "搞笑",
+      "count": 2
+    },
+    {
+      "token": "会笑",
+      "count": 2
+    },
+    {
+      "token": "才行",
+      "count": 2
+    },
+    {
+      "token": "音乐",
+      "count": 2
+    },
+    {
+      "token": "成为",
+      "count": 2
+    },
+    {
+      "token": "爪子",
+      "count": 2
+    },
+    {
+      "token": "美",
+      "count": 2
+    },
+    {
+      "token": "听听",
+      "count": 2
+    },
+    {
+      "token": "雪",
+      "count": 2
+    },
+    {
+      "token": "看电视",
+      "count": 2
+    },
+    {
+      "token": "吹起来",
+      "count": 2
+    },
+    {
+      "token": "二氧化碳",
+      "count": 2
+    },
+    {
+      "token": "咕噜咕噜",
+      "count": 2
+    },
+    {
+      "token": "人话",
+      "count": 2
+    },
+    {
+      "token": "好好",
+      "count": 2
+    },
+    {
+      "token": "暗",
+      "count": 2
+    },
+    {
+      "token": "力气",
+      "count": 2
+    },
+    {
+      "token": "外星人",
+      "count": 2
+    },
+    {
+      "token": "友好",
+      "count": 2
+    },
+    {
+      "token": "探索",
+      "count": 2
+    },
+    {
+      "token": "得到",
+      "count": 2
+    },
+    {
+      "token": "地下",
+      "count": 2
+    },
+    {
+      "token": "闪",
+      "count": 2
+    },
+    {
+      "token": "放进",
+      "count": 2
+    },
+    {
+      "token": "上去",
+      "count": 2
+    },
+    {
+      "token": "蛮",
+      "count": 2
+    },
+    {
+      "token": "瘦瘦的",
+      "count": 2
+    },
+    {
+      "token": "汽水",
+      "count": 2
+    },
+    {
+      "token": "符号",
+      "count": 2
+    },
+    {
+      "token": "正在",
+      "count": 2
+    },
+    {
+      "token": "往前",
+      "count": 2
+    },
+    {
+      "token": "震动",
+      "count": 2
+    },
+    {
+      "token": "一片",
+      "count": 2
+    },
+    {
+      "token": "五彩",
+      "count": 2
+    },
+    {
+      "token": "滑板",
+      "count": 2
+    },
+    {
+      "token": "近",
+      "count": 2
+    },
+    {
+      "token": "装饰",
+      "count": 2
+    },
+    {
+      "token": "嗒",
+      "count": 2
+    },
+    {
+      "token": "变黑",
+      "count": 2
+    },
+    {
+      "token": "很白",
+      "count": 2
+    },
+    {
+      "token": "回到",
+      "count": 2
+    },
+    {
+      "token": "蜂蜜",
+      "count": 2
+    },
+    {
+      "token": "花粉",
+      "count": 2
+    },
+    {
+      "token": "它变",
+      "count": 2
+    },
+    {
+      "token": "助手",
+      "count": 2
+    },
+    {
+      "token": "咋办",
+      "count": 2
+    },
+    {
+      "token": "灯泡",
+      "count": 2
+    },
+    {
+      "token": "告状",
+      "count": 2
+    },
+    {
+      "token": "太长",
+      "count": 2
+    },
+    {
+      "token": "画草",
+      "count": 2
+    },
+    {
+      "token": "设计",
+      "count": 2
+    },
+    {
+      "token": "猫猫",
+      "count": 2
+    },
+    {
+      "token": "亮闪闪",
+      "count": 2
+    },
+    {
+      "token": "养",
+      "count": 2
+    },
+    {
+      "token": "云龙",
+      "count": 2
+    },
+    {
+      "token": "夜空",
+      "count": 2
+    },
+    {
+      "token": "不用",
+      "count": 2
+    },
+    {
+      "token": "杖",
+      "count": 2
+    },
+    {
+      "token": "出现",
+      "count": 2
+    },
+    {
+      "token": "所有人",
+      "count": 2
+    },
+    {
+      "token": "抢走了",
+      "count": 2
+    },
+    {
+      "token": "理",
+      "count": 2
+    },
+    {
+      "token": "草籽",
+      "count": 2
+    },
+    {
+      "token": "粮仓",
+      "count": 2
+    },
+    {
+      "token": "种",
+      "count": 2
+    },
+    {
+      "token": "吓人",
+      "count": 2
+    },
+    {
+      "token": "咯",
+      "count": 2
+    },
+    {
+      "token": "干",
+      "count": 2
+    },
+    {
+      "token": "能力",
+      "count": 2
+    },
+    {
+      "token": "变好",
+      "count": 2
+    },
+    {
+      "token": "善良",
+      "count": 2
+    },
+    {
+      "token": "小羊",
+      "count": 2
+    },
+    {
+      "token": "眨眼睛",
+      "count": 2
+    },
+    {
+      "token": "夸",
+      "count": 2
+    },
+    {
+      "token": "小伙伴",
+      "count": 2
+    },
+    {
+      "token": "小路",
+      "count": 2
+    },
+    {
+      "token": "帽",
+      "count": 2
+    },
+    {
+      "token": "咿呀",
+      "count": 2
+    },
+    {
+      "token": "火球",
+      "count": 2
+    },
+    {
+      "token": "骨头",
+      "count": 2
+    },
+    {
+      "token": "青蛙",
+      "count": 2
+    },
+    {
+      "token": "河上",
+      "count": 2
+    },
+    {
+      "token": "那树会",
+      "count": 2
+    },
+    {
+      "token": "风会",
+      "count": 2
+    },
+    {
+      "token": "红树林",
+      "count": 2
+    },
+    {
+      "token": "真是",
+      "count": 2
+    },
+    {
+      "token": "猎人",
+      "count": 2
+    },
+    {
+      "token": "用水",
+      "count": 2
+    },
+    {
+      "token": "山上",
+      "count": 2
+    },
+    {
+      "token": "好多个",
+      "count": 2
+    },
+    {
+      "token": "三眼",
+      "count": 2
+    },
+    {
+      "token": "藏身",
+      "count": 2
+    },
+    {
+      "token": "礼物",
+      "count": 2
+    },
+    {
+      "token": "袋子",
+      "count": 2
+    },
+    {
+      "token": "加太多会",
+      "count": 2
+    },
+    {
+      "token": "无敌",
+      "count": 2
+    },
+    {
+      "token": "数",
+      "count": 2
+    },
+    {
+      "token": "听懂",
+      "count": 2
+    },
+    {
+      "token": "那要",
+      "count": 2
+    },
+    {
+      "token": "搅",
+      "count": 2
+    },
+    {
+      "token": "溶解",
+      "count": 2
+    },
+    {
+      "token": "很快",
+      "count": 2
+    },
+    {
+      "token": "融化",
+      "count": 2
+    },
+    {
+      "token": "蚁后",
+      "count": 2
+    },
+    {
+      "token": "重",
+      "count": 2
+    },
+    {
+      "token": "浮",
+      "count": 2
+    },
+    {
+      "token": "长壳",
+      "count": 2
+    },
+    {
+      "token": "能装",
+      "count": 2
+    },
+    {
+      "token": "狗狗",
+      "count": 2
+    },
+    {
+      "token": "电脑",
+      "count": 2
+    },
+    {
+      "token": "鸟儿",
+      "count": 2
+    },
+    {
+      "token": "侦查",
+      "count": 2
+    },
+    {
+      "token": "游泳",
+      "count": 2
+    },
+    {
+      "token": "怕人",
+      "count": 2
+    },
+    {
+      "token": "吸",
+      "count": 2
+    },
+    {
+      "token": "说说看",
+      "count": 2
+    },
+    {
+      "token": "不好意思",
+      "count": 2
+    },
+    {
+      "token": "要学",
+      "count": 2
+    },
+    {
+      "token": "失望",
+      "count": 2
+    },
+    {
+      "token": "香",
+      "count": 2
+    },
+    {
+      "token": "飞过去",
+      "count": 2
+    },
+    {
+      "token": "照亮",
+      "count": 2
+    },
+    {
+      "token": "无聊",
+      "count": 2
+    },
+    {
+      "token": "船上",
+      "count": 2
+    },
+    {
+      "token": "船底",
+      "count": 2
+    },
+    {
+      "token": "托住",
+      "count": 2
+    },
+    {
+      "token": "沉",
+      "count": 2
+    },
+    {
+      "token": "飞走",
+      "count": 2
+    },
+    {
+      "token": "宇航员",
+      "count": 2
+    },
+    {
+      "token": "空",
+      "count": 2
+    },
+    {
+      "token": "一棵树",
+      "count": 2
+    },
+    {
+      "token": "全家",
+      "count": 2
+    },
+    {
+      "token": "一天",
+      "count": 2
+    },
+    {
+      "token": "嘻嘻",
+      "count": 2
+    },
+    {
+      "token": "最大",
+      "count": 2
+    },
+    {
+      "token": "棒棒糖",
+      "count": 2
+    },
+    {
+      "token": "彩笔",
+      "count": 2
+    },
+    {
+      "token": "画会",
+      "count": 2
+    },
+    {
+      "token": "有意思",
+      "count": 2
+    },
+    {
+      "token": "表情",
+      "count": 2
+    },
+    {
+      "token": "之后",
+      "count": 2
+    },
+    {
+      "token": "最亮",
+      "count": 2
+    },
+    {
+      "token": "叽叽",
+      "count": 2
+    },
+    {
+      "token": "开门",
+      "count": 2
+    },
+    {
+      "token": "冰箱",
+      "count": 2
+    },
+    {
+      "token": "风是",
+      "count": 2
+    },
+    {
+      "token": "风吹",
+      "count": 2
+    },
+    {
+      "token": "跟风",
+      "count": 2
+    },
+    {
+      "token": "冰棍",
+      "count": 2
+    },
+    {
+      "token": "那用",
+      "count": 2
+    },
+    {
+      "token": "叠",
+      "count": 2
+    },
+    {
+      "token": "宠物",
+      "count": 2
+    },
+    {
+      "token": "画云",
+      "count": 2
+    },
+    {
+      "token": "雪人",
+      "count": 2
+    },
+    {
+      "token": "拉",
+      "count": 2
+    },
+    {
+      "token": "午饭",
+      "count": 2
+    },
+    {
+      "token": "故意",
+      "count": 2
+    },
+    {
+      "token": "没见",
+      "count": 2
+    },
+    {
+      "token": "花园里",
+      "count": 2
+    },
+    {
+      "token": "一闪",
+      "count": 2
+    },
+    {
+      "token": "灯笼",
+      "count": 2
+    },
+    {
+      "token": "车车",
+      "count": 2
+    },
+    {
+      "token": "棕色",
+      "count": 2
+    },
+    {
+      "token": "行不行",
+      "count": 2
+    },
+    {
+      "token": "不见",
+      "count": 2
+    },
+    {
+      "token": "雨滴",
+      "count": 2
+    },
+    {
+      "token": "循环",
+      "count": 2
+    },
+    {
+      "token": "旅行",
+      "count": 2
+    },
+    {
+      "token": "贴",
+      "count": 2
+    },
+    {
+      "token": "灯光",
+      "count": 2
+    },
+    {
+      "token": "水能",
+      "count": 2
+    },
+    {
+      "token": "色素",
+      "count": 2
+    },
+    {
+      "token": "能加",
+      "count": 2
+    },
+    {
+      "token": "再加",
+      "count": 2
+    },
+    {
+      "token": "变化",
+      "count": 2
+    },
+    {
+      "token": "聊",
+      "count": 2
+    },
+    {
+      "token": "教它",
+      "count": 2
+    },
+    {
+      "token": "音",
+      "count": 2
+    },
+    {
+      "token": "低",
+      "count": 2
+    },
+    {
+      "token": "风筝",
+      "count": 2
+    },
+    {
+      "token": "藏得",
+      "count": 2
+    },
+    {
+      "token": "回去",
+      "count": 2
+    },
+    {
+      "token": "裙子",
+      "count": 2
+    },
+    {
+      "token": "蝴蝶结",
+      "count": 2
+    },
+    {
+      "token": "树好",
+      "count": 2
+    },
+    {
+      "token": "回答",
+      "count": 2
+    },
+    {
+      "token": "叽叽喳喳",
+      "count": 2
+    },
+    {
+      "token": "捕手",
+      "count": 2
+    },
+    {
+      "token": "滴滴",
+      "count": 2
+    },
+    {
+      "token": "冒险家",
+      "count": 2
+    },
+    {
+      "token": "花儿",
+      "count": 2
+    },
+    {
+      "token": "好几个",
+      "count": 2
+    },
+    {
+      "token": "可怕",
+      "count": 2
+    },
+    {
+      "token": "那光",
+      "count": 2
+    },
+    {
+      "token": "手电筒",
+      "count": 2
+    },
+    {
+      "token": "影响",
+      "count": 2
+    },
+    {
+      "token": "星",
+      "count": 2
+    },
+    {
+      "token": "水彩",
+      "count": 2
+    },
+    {
+      "token": "混",
+      "count": 2
+    },
+    {
+      "token": "玩得",
+      "count": 2
+    },
+    {
+      "token": "船长",
+      "count": 2
+    },
+    {
+      "token": "墙",
+      "count": 2
+    },
+    {
+      "token": "机",
+      "count": 2
+    },
+    {
+      "token": "点子",
+      "count": 2
+    },
+    {
+      "token": "堆",
+      "count": 2
+    },
+    {
+      "token": "公主",
+      "count": 2
+    },
+    {
+      "token": "云会动",
+      "count": 2
+    },
+    {
+      "token": "图",
+      "count": 2
+    },
+    {
+      "token": "想画",
+      "count": 2
+    },
+    {
+      "token": "会带",
+      "count": 2
+    },
+    {
+      "token": "翻",
+      "count": 2
+    },
+    {
+      "token": "跟头",
+      "count": 2
+    },
+    {
+      "token": "扑",
+      "count": 2
+    },
+    {
+      "token": "毛线",
+      "count": 2
+    },
+    {
+      "token": "烧",
+      "count": 2
+    },
+    {
+      "token": "地震",
+      "count": 2
+    },
+    {
+      "token": "明说",
+      "count": 2
+    },
+    {
+      "token": "均匀",
+      "count": 2
+    },
+    {
+      "token": "流动",
+      "count": 2
+    },
+    {
+      "token": "听话",
+      "count": 2
+    },
+    {
+      "token": "黑暗",
+      "count": 2
+    },
+    {
+      "token": "快乐",
+      "count": 2
+    },
+    {
+      "token": "岛上",
+      "count": 2
+    },
+    {
+      "token": "那座",
+      "count": 2
+    },
+    {
+      "token": "起飞",
+      "count": 2
+    },
+    {
+      "token": "用光",
+      "count": 2
+    },
+    {
+      "token": "后院",
+      "count": 2
+    },
+    {
+      "token": "唱得",
+      "count": 2
+    },
+    {
+      "token": "弯弯的",
+      "count": 2
+    },
+    {
+      "token": "老鹰",
+      "count": 2
+    },
+    {
+      "token": "表扬",
+      "count": 2
+    },
+    {
+      "token": "画成",
+      "count": 2
+    },
+    {
+      "token": "星座",
+      "count": 2
+    },
+    {
+      "token": "网",
+      "count": 2
+    },
+    {
+      "token": "鱼缸",
+      "count": 2
+    },
+    {
+      "token": "外星",
+      "count": 2
+    },
+    {
+      "token": "水滴",
+      "count": 2
+    },
+    {
+      "token": "玩个",
+      "count": 1
+    },
+    {
+      "token": "辣椒",
+      "count": 1
+    },
+    {
+      "token": "烤鸡",
+      "count": 1
+    },
+    {
+      "token": "防火",
+      "count": 1
+    },
+    {
+      "token": "有坏",
+      "count": 1
+    },
+    {
+      "token": "冰霜",
+      "count": 1
+    },
+    {
+      "token": "巨兽",
+      "count": 1
+    },
+    {
+      "token": "雷电",
+      "count": 1
+    },
+    {
+      "token": "墙上",
+      "count": 1
+    },
+    {
+      "token": "熔掉",
+      "count": 1
+    },
+    {
+      "token": "超远",
+      "count": 1
+    },
+    {
+      "token": "打败",
+      "count": 1
+    },
+    {
+      "token": "坏蛋",
+      "count": 1
+    },
+    {
+      "token": "魔法盾",
+      "count": 1
+    },
+    {
+      "token": "挡住",
+      "count": 1
+    },
+    {
+      "token": "攻击",
+      "count": 1
+    },
+    {
+      "token": "一看",
+      "count": 1
+    },
+    {
+      "token": "强大",
+      "count": 1
+    },
+    {
+      "token": "强",
+      "count": 1
+    },
+    {
+      "token": "龙来",
+      "count": 1
+    },
+    {
+      "token": "水火",
+      "count": 1
+    },
+    {
+      "token": "冲掉",
+      "count": 1
+    },
+    {
+      "token": "合作",
+      "count": 1
+    },
+    {
+      "token": "里开",
+      "count": 1
+    },
+    {
+      "token": "爷爷",
+      "count": 1
+    },
+    {
+      "token": "挥手",
+      "count": 1
+    },
+    {
+      "token": "站成",
+      "count": 1
+    },
+    {
+      "token": "一排",
+      "count": 1
+    },
+    {
+      "token": "牵",
+      "count": 1
+    },
+    {
+      "token": "大房子",
+      "count": 1
+    },
+    {
+      "token": "棵",
+      "count": 1
+    },
+    {
+      "token": "苹果树",
+      "count": 1
+    },
+    {
+      "token": "苹果",
+      "count": 1
+    },
+    {
+      "token": "泥",
+      "count": 1
+    },
+    {
+      "token": "油瓶",
+      "count": 1
+    },
+    {
+      "token": "找齐",
+      "count": 1
+    },
+    {
+      "token": "雪花",
+      "count": 1
+    },
+    {
+      "token": "起泡",
+      "count": 1
+    },
+    {
+      "token": "放水",
+      "count": 1
+    },
+    {
+      "token": "油会",
+      "count": 1
+    },
+    {
+      "token": "不试",
+      "count": 1
+    },
+    {
+      "token": "嗨",
+      "count": 1
+    },
+    {
+      "token": "泡",
+      "count": 1
+    },
+    {
+      "token": "泡泡龙",
+      "count": 1
+    },
+    {
+      "token": "冒泡泡",
+      "count": 1
+    },
+    {
+      "token": "有气",
+      "count": 1
+    },
+    {
+      "token": "加水",
+      "count": 1
+    },
+    {
+      "token": "原因",
+      "count": 1
+    },
+    {
+      "token": "减弱",
+      "count": 1
+    },
+    {
+      "token": "每种",
+      "count": 1
+    },
+    {
+      "token": "混在",
+      "count": 1
+    },
+    {
+      "token": "化学反应",
+      "count": 1
+    },
+    {
+      "token": "那下",
+      "count": 1
+    },
+    {
+      "token": "组合",
+      "count": 1
+    },
+    {
+      "token": "抓走",
+      "count": 1
+    },
+    {
+      "token": "想个办法",
+      "count": 1
+    },
+    {
+      "token": "门",
+      "count": 1
+    },
+    {
+      "token": "超闪灯",
+      "count": 1
+    },
+    {
+      "token": "风速",
+      "count": 1
+    },
+    {
+      "token": "靴",
+      "count": 1
+    },
+    {
+      "token": "有龙",
+      "count": 1
+    },
+    {
+      "token": "骑马",
+      "count": 1
+    },
+    {
+      "token": "一匹",
+      "count": 1
+    },
+    {
+      "token": "白马",
+      "count": 1
+    },
+    {
+      "token": "大龙",
+      "count": 1
+    },
+    {
+      "token": "烤",
+      "count": 1
+    },
+    {
+      "token": "喷出",
+      "count": 1
+    },
+    {
+      "token": "教得",
+      "count": 1
+    },
+    {
+      "token": "耐心",
+      "count": 1
+    },
+    {
+      "token": "舞蹈",
+      "count": 1
+    },
+    {
+      "token": "火喷到",
+      "count": 1
+    },
+    {
+      "token": "水是",
+      "count": 1
+    },
+    {
+      "token": "搭成",
+      "count": 1
+    },
+    {
+      "token": "他全",
+      "count": 1
+    },
+    {
+      "token": "走开",
+      "count": 1
+    },
+    {
+      "token": "不关",
+      "count": 1
+    },
+    {
+      "token": "重新",
+      "count": 1
+    },
+    {
+      "token": "弄坏",
+      "count": 1
+    },
+    {
+      "token": "飞多高",
+      "count": 1
+    },
+    {
+      "token": "凉凉的",
+      "count": 1
+    },
+    {
+      "token": "雾气",
+      "count": 1
+    },
+    {
+      "token": "看不到",
+      "count": 1
+    },
+    {
+      "token": "喷给",
+      "count": 1
+    },
+    {
+      "token": "尝",
+      "count": 1
+    },
+    {
+      "token": "全部都是",
+      "count": 1
+    },
+    {
+      "token": "到处",
+      "count": 1
+    },
+    {
+      "token": "要划",
+      "count": 1
+    },
+    {
+      "token": "糖船",
+      "count": 1
+    },
+    {
+      "token": "水溶",
+      "count": 1
+    },
+    {
+      "token": "糖球",
+      "count": 1
+    },
+    {
+      "token": "航行",
+      "count": 1
+    },
+    {
+      "token": "顶端",
+      "count": 1
+    },
+    {
+      "token": "重建",
+      "count": 1
+    },
+    {
+      "token": "飞进",
+      "count": 1
+    },
+    {
+      "token": "最甜",
+      "count": 1
+    },
+    {
+      "token": "打游戏",
+      "count": 1
+    },
+    {
+      "token": "输",
+      "count": 1
+    },
+    {
+      "token": "不太会",
+      "count": 1
+    },
+    {
+      "token": "我练",
+      "count": 1
+    },
+    {
+      "token": "方式",
+      "count": 1
+    },
+    {
+      "token": "我光练",
+      "count": 1
+    },
+    {
+      "token": "打赢",
+      "count": 1
+    },
+    {
+      "token": "够呛",
+      "count": 1
+    },
+    {
+      "token": "对手",
+      "count": 1
+    },
+    {
+      "token": "总在",
+      "count": 1
+    },
+    {
+      "token": "避开",
+      "count": 1
+    },
+    {
+      "token": "跟不上",
+      "count": 1
+    },
+    {
+      "token": "细心",
+      "count": 1
+    },
+    {
+      "token": "输得",
+      "count": 1
+    },
+    {
+      "token": "提高",
+      "count": 1
+    },
+    {
+      "token": "反应",
+      "count": 1
+    },
+    {
+      "token": "天线",
+      "count": 1
+    },
+    {
+      "token": "缺点",
+      "count": 1
+    },
+    {
+      "token": "胡须",
+      "count": 1
+    },
+    {
+      "token": "不太",
+      "count": 1
+    },
+    {
+      "token": "对称",
+      "count": 1
+    },
+    {
+      "token": "滑稽",
+      "count": 1
+    },
+    {
+      "token": "任何人",
+      "count": 1
+    },
+    {
+      "token": "根本",
+      "count": 1
+    },
+    {
+      "token": "疼",
+      "count": 1
+    },
+    {
+      "token": "待会儿",
+      "count": 1
+    },
+    {
+      "token": "秋天",
+      "count": 1
+    },
+    {
+      "token": "变红",
+      "count": 1
+    },
+    {
+      "token": "饿死",
+      "count": 1
+    },
+    {
+      "token": "仙人掌",
+      "count": 1
+    },
+    {
+      "token": "大雨",
+      "count": 1
+    },
+    {
+      "token": "家像",
+      "count": 1
+    },
+    {
+      "token": "主人",
+      "count": 1
+    },
+    {
+      "token": "饭会",
+      "count": 1
+    },
+    {
+      "token": "满屋子",
+      "count": 1
+    },
+    {
+      "token": "早上",
+      "count": 1
+    },
+    {
+      "token": "留下",
+      "count": 1
+    },
+    {
+      "token": "排好",
+      "count": 1
+    },
+    {
+      "token": "宝贝",
+      "count": 1
+    },
+    {
+      "token": "操作",
+      "count": 1
+    },
+    {
+      "token": "吹得",
+      "count": 1
+    },
+    {
+      "token": "太大",
+      "count": 1
+    },
+    {
+      "token": "爆掉",
+      "count": 1
+    },
+    {
+      "token": "画猫",
+      "count": 1
+    },
+    {
+      "token": "那猫",
+      "count": 1
+    },
+    {
+      "token": "酷酷",
+      "count": 1
+    },
+    {
+      "token": "光环",
+      "count": 1
+    },
+    {
+      "token": "很帅",
+      "count": 1
+    },
+    {
+      "token": "光圈",
+      "count": 1
+    },
+    {
+      "token": "存",
+      "count": 1
+    },
+    {
+      "token": "粮食",
+      "count": 1
+    },
+    {
+      "token": "棉被",
+      "count": 1
+    },
+    {
+      "token": "传播",
+      "count": 1
+    },
+    {
+      "token": "不带",
+      "count": 1
+    },
+    {
+      "token": "风和水",
+      "count": 1
+    },
+    {
+      "token": "轮流",
+      "count": 1
+    },
+    {
+      "token": "这片",
+      "count": 1
+    },
+    {
+      "token": "藤蔓",
+      "count": 1
+    },
+    {
+      "token": "偷看",
+      "count": 1
+    },
+    {
+      "token": "挥挥手",
+      "count": 1
+    },
+    {
+      "token": "找会",
+      "count": 1
+    },
+    {
+      "token": "太慢",
+      "count": 1
+    },
+    {
+      "token": "解释",
+      "count": 1
+    },
+    {
+      "token": "冷静",
+      "count": 1
+    },
+    {
+      "token": "那句话",
+      "count": 1
+    },
+    {
+      "token": "太烦",
+      "count": 1
+    },
+    {
+      "token": "变快",
+      "count": 1
+    },
+    {
+      "token": "拿画",
+      "count": 1
+    },
+    {
+      "token": "笔画",
+      "count": 1
+    },
+    {
+      "token": "马",
+      "count": 1
+    },
+    {
+      "token": "第一个",
+      "count": 1
+    },
+    {
+      "token": "会藏",
+      "count": 1
+    },
+    {
+      "token": "一本",
+      "count": 1
+    },
+    {
+      "token": "很厚",
+      "count": 1
+    },
+    {
+      "token": "盖住",
+      "count": 1
+    },
+    {
+      "token": "指着",
+      "count": 1
+    },
+    {
+      "token": "小车",
+      "count": 1
+    },
+    {
+      "token": "车",
+      "count": 1
+    },
+    {
+      "token": "开去",
+      "count": 1
+    },
+    {
+      "token": "一大",
+      "count": 1
+    },
+    {
+      "token": "软糖",
+      "count": 1
+    },
+    {
+      "token": "飞过来",
+      "count": 1
+    },
+    {
+      "token": "喷光",
+      "count": 1
+    },
+    {
+      "token": "喷光会",
+      "count": 1
+    },
+    {
+      "token": "埋伏",
+      "count": 1
+    },
+    {
+      "token": "出击",
+      "count": 1
+    },
+    {
+      "token": "瘦",
+      "count": 1
+    },
+    {
+      "token": "划水",
+      "count": 1
+    },
+    {
+      "token": "画水",
+      "count": 1
+    },
+    {
+      "token": "蛇会",
+      "count": 1
+    },
+    {
+      "token": "字画",
+      "count": 1
+    },
+    {
+      "token": "有大",
+      "count": 1
+    },
+    {
+      "token": "戴眼镜",
+      "count": 1
+    },
+    {
+      "token": "嘎嘎",
+      "count": 1
+    },
+    {
+      "token": "它教",
+      "count": 1
+    },
+    {
+      "token": "小鸭子",
+      "count": 1
+    },
+    {
+      "token": "难呐",
+      "count": 1
+    },
+    {
+      "token": "波浪",
+      "count": 1
+    },
+    {
+      "token": "就行",
+      "count": 1
+    },
+    {
+      "token": "眯着",
+      "count": 1
+    },
+    {
+      "token": "不害羞",
+      "count": 1
+    },
+    {
+      "token": "线球",
+      "count": 1
+    },
+    {
+      "token": "陪我玩",
+      "count": 1
+    },
+    {
+      "token": "闻",
+      "count": 1
+    },
+    {
+      "token": "很酸",
+      "count": 1
+    },
+    {
+      "token": "哇哇",
+      "count": 1
+    },
+    {
+      "token": "窄",
+      "count": 1
+    },
+    {
+      "token": "嘴",
+      "count": 1
+    },
+    {
+      "token": "洒",
+      "count": 1
+    },
+    {
+      "token": "鸡蛋",
+      "count": 1
+    },
+    {
+      "token": "我选",
+      "count": 1
+    },
+    {
+      "token": "能行",
+      "count": 1
+    },
+    {
+      "token": "同意",
+      "count": 1
+    },
+    {
+      "token": "弄乱",
+      "count": 1
+    },
+    {
+      "token": "调皮鬼",
+      "count": 1
+    },
+    {
+      "token": "那好",
+      "count": 1
+    },
+    {
+      "token": "我滴",
+      "count": 1
+    },
+    {
+      "token": "游来游去",
+      "count": 1
+    },
+    {
+      "token": "溜过去",
+      "count": 1
+    },
+    {
+      "token": "不坏",
+      "count": 1
+    },
+    {
+      "token": "闻到",
+      "count": 1
+    },
+    {
+      "token": "大肉",
+      "count": 1
+    },
+    {
+      "token": "点亮",
+      "count": 1
+    },
+    {
+      "token": "插",
+      "count": 1
+    },
+    {
+      "token": "岩石",
+      "count": 1
+    },
+    {
+      "token": "太重",
+      "count": 1
+    },
+    {
+      "token": "拔不动",
+      "count": 1
+    },
+    {
+      "token": "我以",
+      "count": 1
+    },
+    {
+      "token": "名义",
+      "count": 1
+    },
+    {
+      "token": "请求",
+      "count": 1
+    },
+    {
+      "token": "它动",
+      "count": 1
+    },
+    {
+      "token": "拔出来",
+      "count": 1
+    },
+    {
+      "token": "寻找",
+      "count": 1
+    },
+    {
+      "token": "拿来",
+      "count": 1
+    },
+    {
+      "token": "云跑",
+      "count": 1
+    },
+    {
+      "token": "那云会",
+      "count": 1
+    },
+    {
+      "token": "那飞",
+      "count": 1
+    },
+    {
+      "token": "飞机",
+      "count": 1
+    },
+    {
+      "token": "梦里",
+      "count": 1
+    },
+    {
+      "token": "辛苦",
+      "count": 1
+    },
+    {
+      "token": "顶",
+      "count": 1
+    },
+    {
+      "token": "醒目",
+      "count": 1
+    },
+    {
+      "token": "交到",
+      "count": 1
+    },
+    {
+      "token": "几只",
+      "count": 1
+    },
+    {
+      "token": "小蛙",
+      "count": 1
+    },
+    {
+      "token": "吉他",
+      "count": 1
+    },
+    {
+      "token": "学做",
+      "count": 1
+    },
+    {
+      "token": "捏",
+      "count": 1
+    },
+    {
+      "token": "几个",
+      "count": 1
+    },
+    {
+      "token": "边漏",
+      "count": 1
+    },
+    {
+      "token": "第一次",
+      "count": 1
+    },
+    {
+      "token": "包会",
+      "count": 1
+    },
+    {
+      "token": "散开",
+      "count": 1
+    },
+    {
+      "token": "不算",
+      "count": 1
+    },
+    {
+      "token": "糟糕",
+      "count": 1
+    },
+    {
+      "token": "常包",
+      "count": 1
+    },
+    {
+      "token": "动作",
+      "count": 1
+    },
+    {
+      "token": "做出",
+      "count": 1
+    },
+    {
+      "token": "秘方",
+      "count": 1
+    },
+    {
+      "token": "饺子皮",
+      "count": 1
+    },
+    {
+      "token": "更滑",
+      "count": 1
+    },
+    {
+      "token": "紧",
+      "count": 1
+    },
+    {
+      "token": "调好",
+      "count": 1
+    },
+    {
+      "token": "馅里",
+      "count": 1
+    },
+    {
+      "token": "都行",
+      "count": 1
+    },
+    {
+      "token": "团圆",
+      "count": 1
+    },
+    {
+      "token": "象征",
+      "count": 1
+    },
+    {
+      "token": "意义",
+      "count": 1
+    },
+    {
+      "token": "要常学",
+      "count": 1
+    },
+    {
+      "token": "肥皂",
+      "count": 1
+    },
+    {
+      "token": "搅好",
+      "count": 1
+    },
+    {
+      "token": "泡沫",
+      "count": 1
+    },
+    {
+      "token": "冒出来",
+      "count": 1
+    },
+    {
+      "token": "有大有小",
+      "count": 1
+    },
+    {
+      "token": "吹大",
+      "count": 1
+    },
+    {
+      "token": "桌子",
+      "count": 1
+    },
+    {
+      "token": "好美",
+      "count": 1
+    },
+    {
+      "token": "擦干",
+      "count": 1
+    },
+    {
+      "token": "糖水",
+      "count": 1
+    },
+    {
+      "token": "变甜",
+      "count": 1
+    },
+    {
+      "token": "皮",
+      "count": 1
+    },
+    {
+      "token": "一会儿",
+      "count": 1
+    },
+    {
+      "token": "很圆",
+      "count": 1
+    },
+    {
+      "token": "变重",
+      "count": 1
+    },
+    {
+      "token": "啊哈",
+      "count": 1
+    },
+    {
+      "token": "会住",
+      "count": 1
+    },
+    {
+      "token": "树洞",
+      "count": 1
+    },
+    {
+      "token": "宝物",
+      "count": 1
+    },
+    {
+      "token": "先找",
+      "count": 1
+    },
+    {
+      "token": "根",
+      "count": 1
+    },
+    {
+      "token": "最近",
+      "count": 1
+    },
+    {
+      "token": "拦住",
+      "count": 1
+    },
+    {
+      "token": "跳过",
+      "count": 1
+    },
+    {
+      "token": "云鲸",
+      "count": 1
+    },
+    {
+      "token": "语",
+      "count": 1
+    },
+    {
+      "token": "星光",
+      "count": 1
+    },
+    {
+      "token": "黑夜",
+      "count": 1
+    },
+    {
+      "token": "树根",
+      "count": 1
+    },
+    {
+      "token": "治愈",
+      "count": 1
+    },
+    {
+      "token": "学到",
+      "count": 1
+    },
+    {
+      "token": "勇气",
+      "count": 1
+    },
+    {
+      "token": "守护",
+      "count": 1
+    },
+    {
+      "token": "加绿",
+      "count": 1
+    },
+    {
+      "token": "水会变",
+      "count": 1
+    },
+    {
+      "token": "给水",
+      "count": 1
+    },
+    {
+      "token": "变水成",
+      "count": 1
+    },
+    {
+      "token": "触觉",
+      "count": 1
+    },
+    {
+      "token": "树后",
+      "count": 1
+    },
+    {
+      "token": "比如说",
+      "count": 1
+    },
+    {
+      "token": "尴尬",
+      "count": 1
+    },
+    {
+      "token": "听见",
+      "count": 1
+    },
+    {
+      "token": "找新家",
+      "count": 1
+    },
+    {
+      "token": "羡慕",
+      "count": 1
+    },
+    {
+      "token": "看海",
+      "count": 1
+    },
+    {
+      "token": "贝壳",
+      "count": 1
+    },
+    {
+      "token": "毛茸茸",
+      "count": 1
+    },
+    {
+      "token": "会动",
+      "count": 1
+    },
+    {
+      "token": "毛球",
+      "count": 1
+    },
+    {
+      "token": "版本",
+      "count": 1
+    },
+    {
+      "token": "哈利",
+      "count": 1
+    },
+    {
+      "token": "取名字",
+      "count": 1
+    },
+    {
+      "token": "绿绿",
+      "count": 1
+    },
+    {
+      "token": "耳怪",
+      "count": 1
+    },
+    {
+      "token": "题",
+      "count": 1
+    },
+    {
+      "token": "上次",
+      "count": 1
+    },
+    {
+      "token": "那道题",
+      "count": 1
+    },
+    {
+      "token": "学习",
+      "count": 1
+    },
+    {
+      "token": "这像",
+      "count": 1
+    },
+    {
+      "token": "冲刺",
+      "count": 1
+    },
+    {
+      "token": "考",
+      "count": 1
+    },
+    {
+      "token": "测验",
+      "count": 1
+    },
+    {
+      "token": "好好学习",
+      "count": 1
+    },
+    {
+      "token": "错题",
+      "count": 1
+    },
+    {
+      "token": "说不出来",
+      "count": 1
+    },
+    {
+      "token": "挺难",
+      "count": 1
+    },
+    {
+      "token": "轻轻地",
+      "count": 1
+    },
+    {
+      "token": "动得",
+      "count": 1
+    },
+    {
+      "token": "蹦蹦跳",
+      "count": 1
+    },
+    {
+      "token": "那河",
+      "count": 1
+    },
+    {
+      "token": "河里",
+      "count": 1
+    },
+    {
+      "token": "水装",
+      "count": 1
+    },
+    {
+      "token": "桌上",
+      "count": 1
+    },
+    {
+      "token": "之前",
+      "count": 1
+    },
+    {
+      "token": "才刚",
+      "count": 1
+    },
+    {
+      "token": "很想",
+      "count": 1
+    },
+    {
+      "token": "画烟",
+      "count": 1
+    },
+    {
+      "token": "有烟",
+      "count": 1
+    },
+    {
+      "token": "鱼鳞",
+      "count": 1
+    },
+    {
+      "token": "重复",
+      "count": 1
+    },
+    {
+      "token": "画久",
+      "count": 1
+    },
+    {
+      "token": "太累",
+      "count": 1
+    },
+    {
+      "token": "那龙",
+      "count": 1
+    },
+    {
+      "token": "留着",
+      "count": 1
+    },
+    {
+      "token": "涂好",
+      "count": 1
+    },
+    {
+      "token": "伸手",
+      "count": 1
+    },
+    {
+      "token": "去够",
+      "count": 1
+    },
+    {
+      "token": "还远",
+      "count": 1
+    },
+    {
+      "token": "太阳能",
+      "count": 1
+    },
+    {
+      "token": "不烧",
+      "count": 1
+    },
+    {
+      "token": "兄弟",
+      "count": 1
+    },
+    {
+      "token": "爬上去",
+      "count": 1
+    },
+    {
+      "token": "长大",
+      "count": 1
+    },
+    {
+      "token": "属于",
+      "count": 1
+    },
+    {
+      "token": "不是故意",
+      "count": 1
+    },
+    {
+      "token": "一步",
+      "count": 1
+    },
+    {
+      "token": "包好",
+      "count": 1
+    },
+    {
+      "token": "小包",
+      "count": 1
+    },
+    {
+      "token": "拧紧",
+      "count": 1
+    },
+    {
+      "token": "真是太",
+      "count": 1
+    },
+    {
+      "token": "有过",
+      "count": 1
+    },
+    {
+      "token": "穿错",
+      "count": 1
+    },
+    {
+      "token": "鞋",
+      "count": 1
+    },
+    {
+      "token": "出门",
+      "count": 1
+    },
+    {
+      "token": "那鞋",
+      "count": 1
+    },
+    {
+      "token": "超红",
+      "count": 1
+    },
+    {
+      "token": "换掉",
+      "count": 1
+    },
+    {
+      "token": "取笑",
+      "count": 1
+    },
+    {
+      "token": "犯",
+      "count": 1
+    },
+    {
+      "token": "错误",
+      "count": 1
+    },
+    {
+      "token": "装作",
+      "count": 1
+    },
+    {
+      "token": "溜",
+      "count": 1
+    },
+    {
+      "token": "野餐",
+      "count": 1
+    },
+    {
+      "token": "坐在",
+      "count": 1
+    },
+    {
+      "token": "扁",
+      "count": 1
+    },
+    {
+      "token": "煎饼",
+      "count": 1
+    },
+    {
+      "token": "大概",
+      "count": 1
+    },
+    {
+      "token": "直不起",
+      "count": 1
+    },
+    {
+      "token": "腰来",
+      "count": 1
+    },
+    {
+      "token": "傻笑",
+      "count": 1
+    },
+    {
+      "token": "画鱼",
+      "count": 1
+    },
+    {
+      "token": "圆圈",
+      "count": 1
+    },
+    {
+      "token": "不大",
+      "count": 1
+    },
+    {
+      "token": "楚楚",
+      "count": 1
+    },
+    {
+      "token": "怪怪",
+      "count": 1
+    },
+    {
+      "token": "荧光",
+      "count": 1
+    },
+    {
+      "token": "海马",
+      "count": 1
+    },
+    {
+      "token": "捧",
+      "count": 1
+    },
+    {
+      "token": "珍珠",
+      "count": 1
+    },
+    {
+      "token": "这好",
+      "count": 1
+    },
+    {
+      "token": "那有",
+      "count": 1
+    },
+    {
+      "token": "梦境",
+      "count": 1
+    },
+    {
+      "token": "自行车",
+      "count": 1
+    },
+    {
+      "token": "摔进",
+      "count": 1
+    },
+    {
+      "token": "水沟",
+      "count": 1
+    },
+    {
+      "token": "洗",
+      "count": 1
+    },
+    {
+      "token": "皮糙肉厚",
+      "count": 1
+    },
+    {
+      "token": "池塘",
+      "count": 1
+    },
+    {
+      "token": "莲蓬",
+      "count": 1
+    },
+    {
+      "token": "飞来",
+      "count": 1
+    },
+    {
+      "token": "可快",
+      "count": 1
+    },
+    {
+      "token": "小鱼",
+      "count": 1
+    },
+    {
+      "token": "过来",
+      "count": 1
+    },
+    {
+      "token": "忍住",
+      "count": 1
+    },
+    {
+      "token": "无声",
+      "count": 1
+    },
+    {
+      "token": "短腿",
+      "count": 1
+    },
+    {
+      "token": "飞快",
+      "count": 1
+    },
+    {
+      "token": "带路",
+      "count": 1
+    },
+    {
+      "token": "咯吱咯吱",
+      "count": 1
+    },
+    {
+      "token": "光亮",
+      "count": 1
+    },
+    {
+      "token": "箱",
+      "count": 1
+    },
+    {
+      "token": "太高兴",
+      "count": 1
+    },
+    {
+      "token": "唱起歌",
+      "count": 1
+    },
+    {
+      "token": "不再",
+      "count": 1
+    },
+    {
+      "token": "最会",
+      "count": 1
+    },
+    {
+      "token": "太圆",
+      "count": 1
+    },
+    {
+      "token": "刚加",
+      "count": 1
+    },
+    {
+      "token": "一对",
+      "count": 1
+    },
+    {
+      "token": "比刚",
+      "count": 1
+    },
+    {
+      "token": "几条",
+      "count": 1
+    },
+    {
+      "token": "竖",
+      "count": 1
+    },
+    {
+      "token": "猫虎星宝",
+      "count": 1
+    },
+    {
+      "token": "那朵",
+      "count": 1
+    },
+    {
+      "token": "云画",
+      "count": 1
+    },
+    {
+      "token": "七色",
+      "count": 1
+    },
+    {
+      "token": "滑",
+      "count": 1
+    },
+    {
+      "token": "床",
+      "count": 1
+    },
+    {
+      "token": "花边",
+      "count": 1
+    },
+    {
+      "token": "数星星",
+      "count": 1
+    },
+    {
+      "token": "晚安",
+      "count": 1
+    },
+    {
+      "token": "要变",
+      "count": 1
+    },
+    {
+      "token": "光秃秃",
+      "count": 1
+    },
+    {
+      "token": "那树下",
+      "count": 1
+    },
+    {
+      "token": "冬眠",
+      "count": 1
+    },
+    {
+      "token": "不吃",
+      "count": 1
+    },
+    {
+      "token": "刚长",
+      "count": 1
+    },
+    {
+      "token": "虫会",
+      "count": 1
+    },
+    {
+      "token": "本来",
+      "count": 1
+    },
+    {
+      "token": "十分钟",
+      "count": 1
+    },
+    {
+      "token": "一点儿",
+      "count": 1
+    },
+    {
+      "token": "不累",
+      "count": 1
+    },
+    {
+      "token": "新一集",
+      "count": 1
+    },
+    {
+      "token": "动画",
+      "count": 1
+    },
+    {
+      "token": "套",
+      "count": 1
+    },
+    {
+      "token": "瓶口",
+      "count": 1
+    },
+    {
+      "token": "混合",
+      "count": 1
+    },
+    {
+      "token": "快飞",
+      "count": 1
+    },
+    {
+      "token": "小云羊",
+      "count": 1
+    },
+    {
+      "token": "我敢",
+      "count": 1
+    },
+    {
+      "token": "摸摸",
+      "count": 1
+    },
+    {
+      "token": "这棵",
+      "count": 1
+    },
+    {
+      "token": "天色",
+      "count": 1
+    },
+    {
+      "token": "回",
+      "count": 1
+    },
+    {
+      "token": "温暖",
+      "count": 1
+    },
+    {
+      "token": "那灰云",
+      "count": 1
+    },
+    {
+      "token": "吹散",
+      "count": 1
+    },
+    {
+      "token": "成雨",
+      "count": 1
+    },
+    {
+      "token": "转动",
+      "count": 1
+    },
+    {
+      "token": "晕",
+      "count": 1
+    },
+    {
+      "token": "转",
+      "count": 1
+    },
+    {
+      "token": "甩",
+      "count": 1
+    },
+    {
+      "token": "飞出去",
+      "count": 1
+    },
+    {
+      "token": "未知",
+      "count": 1
+    },
+    {
+      "token": "生病",
+      "count": 1
+    },
+    {
+      "token": "倒转",
+      "count": 1
+    },
+    {
+      "token": "洒水",
+      "count": 1
+    },
+    {
+      "token": "原理",
+      "count": 1
+    },
+    {
+      "token": "大气压",
+      "count": 1
+    },
+    {
+      "token": "好奇",
+      "count": 1
+    },
+    {
+      "token": "能玩个",
+      "count": 1
+    },
+    {
+      "token": "冒险游戏",
+      "count": 1
+    },
+    {
+      "token": "还会放",
+      "count": 1
+    },
+    {
+      "token": "打招呼",
+      "count": 1
+    },
+    {
+      "token": "伟大",
+      "count": 1
+    },
+    {
+      "token": "很强",
+      "count": 1
+    },
+    {
+      "token": "我念",
+      "count": 1
+    },
+    {
+      "token": "咕",
+      "count": 1
+    },
+    {
+      "token": "一面",
+      "count": 1
+    },
+    {
+      "token": "大门",
+      "count": 1
+    },
+    {
+      "token": "那本",
+      "count": 1
+    },
+    {
+      "token": "魔法书",
+      "count": 1
+    },
+    {
+      "token": "新技能",
+      "count": 1
+    },
+    {
+      "token": "树飞",
+      "count": 1
+    },
+    {
+      "token": "宝箱",
+      "count": 1
+    },
+    {
+      "token": "人变",
+      "count": 1
+    },
+    {
+      "token": "呆",
+      "count": 1
+    },
+    {
+      "token": "太鼓",
+      "count": 1
+    },
+    {
+      "token": "刺激",
+      "count": 1
+    },
+    {
+      "token": "迫不及待",
+      "count": 1
+    },
+    {
+      "token": "脸用",
+      "count": 1
+    },
+    {
+      "token": "椭圆",
+      "count": 1
+    },
+    {
+      "token": "奔跑",
+      "count": 1
+    },
+    {
+      "token": "毛色",
+      "count": 1
+    },
+    {
+      "token": "感",
+      "count": 1
+    },
+    {
+      "token": "玩炸",
+      "count": 1
+    },
+    {
+      "token": "力有",
+      "count": 1
+    },
+    {
+      "token": "靠近",
+      "count": 1
+    },
+    {
+      "token": "某种",
+      "count": 1
+    },
+    {
+      "token": "文字",
+      "count": 1
+    },
+    {
+      "token": "语言",
+      "count": 1
+    },
+    {
+      "token": "模仿",
+      "count": 1
+    },
+    {
+      "token": "嗡嗡声",
+      "count": 1
+    },
+    {
+      "token": "回应",
+      "count": 1
+    },
+    {
+      "token": "跟上",
+      "count": 1
+    },
+    {
+      "token": "移动",
+      "count": 1
+    },
+    {
+      "token": "指引",
+      "count": 1
+    },
+    {
+      "token": "拼",
+      "count": 1
+    },
+    {
+      "token": "解开",
+      "count": 1
+    },
+    {
+      "token": "提示",
+      "count": 1
+    },
+    {
+      "token": "一首",
+      "count": 1
+    },
+    {
+      "token": "飞在",
+      "count": 1
+    },
+    {
+      "token": "亮晶晶",
+      "count": 1
+    },
+    {
+      "token": "银色",
+      "count": 1
+    },
+    {
+      "token": "搭配",
+      "count": 1
+    },
+    {
+      "token": "飞天猫",
+      "count": 1
+    },
+    {
+      "token": "仙子",
+      "count": 1
+    },
+    {
+      "token": "多一些",
+      "count": 1
+    },
+    {
+      "token": "显得",
+      "count": 1
+    },
+    {
+      "token": "很炫酷",
+      "count": 1
+    },
+    {
+      "token": "要加",
+      "count": 1
+    },
+    {
+      "token": "滑来滑去",
+      "count": 1
+    },
+    {
+      "token": "一名",
+      "count": 1
+    },
+    {
+      "token": "小雨",
+      "count": 1
+    },
+    {
+      "token": "拉着",
+      "count": 1
+    },
+    {
+      "token": "洞窟",
+      "count": 1
+    },
+    {
+      "token": "带来",
+      "count": 1
+    },
+    {
+      "token": "急",
+      "count": 1
+    },
+    {
+      "token": "红会",
+      "count": 1
+    },
+    {
+      "token": "变紫",
+      "count": 1
+    },
+    {
+      "token": "全加会",
+      "count": 1
+    },
+    {
+      "token": "蓝蓝",
+      "count": 1
+    },
+    {
+      "token": "紫紫",
+      "count": 1
+    },
+    {
+      "token": "黑黑的",
+      "count": 1
+    },
+    {
+      "token": "冒烟",
+      "count": 1
+    },
+    {
+      "token": "炸掉",
+      "count": 1
+    },
+    {
+      "token": "啪",
+      "count": 1
+    },
+    {
+      "token": "地被",
+      "count": 1
+    },
+    {
+      "token": "爆",
+      "count": 1
+    },
+    {
+      "token": "碗",
+      "count": 1
+    },
+    {
+      "token": "皱眉头",
+      "count": 1
+    },
+    {
+      "token": "一个个",
+      "count": 1
+    },
+    {
+      "token": "放进去",
+      "count": 1
+    },
+    {
+      "token": "先是",
+      "count": 1
+    },
+    {
+      "token": "多试",
+      "count": 1
+    },
+    {
+      "token": "几次",
+      "count": 1
+    },
+    {
+      "token": "科学家",
+      "count": 1
+    },
+    {
+      "token": "有云",
+      "count": 1
+    },
+    {
+      "token": "那雨",
+      "count": 1
+    },
+    {
+      "token": "走来走去",
+      "count": 1
+    },
+    {
+      "token": "那水会",
+      "count": 1
+    },
+    {
+      "token": "喝水",
+      "count": 1
+    },
+    {
+      "token": "做云",
+      "count": 1
+    },
+    {
+      "token": "树真",
+      "count": 1
+    },
+    {
+      "token": "多多",
+      "count": 1
+    },
+    {
+      "token": "爱护",
+      "count": 1
+    },
+    {
+      "token": "多久",
+      "count": 1
+    },
+    {
+      "token": "采花",
+      "count": 1
+    },
+    {
+      "token": "粉",
+      "count": 1
+    },
+    {
+      "token": "越多",
+      "count": 1
+    },
+    {
+      "token": "调",
+      "count": 1
+    },
+    {
+      "token": "柠檬",
+      "count": 1
+    },
+    {
+      "token": "发电",
+      "count": 1
+    },
+    {
+      "token": "真的假",
+      "count": 1
+    },
+    {
+      "token": "铜",
+      "count": 1
+    },
+    {
+      "token": "锌",
+      "count": 1
+    },
+    {
+      "token": "妈会",
+      "count": 1
+    },
+    {
+      "token": "嘞",
+      "count": 1
+    },
+    {
+      "token": "一枚",
+      "count": 1
+    },
+    {
+      "token": "回形针",
+      "count": 1
+    },
+    {
+      "token": "插进去",
+      "count": 1
+    },
+    {
+      "token": "电线",
+      "count": 1
+    },
+    {
+      "token": "想能",
+      "count": 1
+    },
+    {
+      "token": "连个",
+      "count": 1
+    },
+    {
+      "token": "复杂",
+      "count": 1
+    },
+    {
+      "token": "同桌",
+      "count": 1
+    },
+    {
+      "token": "老是",
+      "count": 1
+    },
+    {
+      "token": "吼",
+      "count": 1
+    },
+    {
+      "token": "气得",
+      "count": 1
+    },
+    {
+      "token": "更糟",
+      "count": 1
+    },
+    {
+      "token": "地说",
+      "count": 1
+    },
+    {
+      "token": "解决",
+      "count": 1
+    },
+    {
+      "token": "一圈",
+      "count": 1
+    },
+    {
+      "token": "画得",
+      "count": 1
+    },
+    {
+      "token": "背景",
+      "count": 1
+    },
+    {
+      "token": "好空",
+      "count": 1
+    },
+    {
+      "token": "整齐",
+      "count": 1
+    },
+    {
+      "token": "银河",
+      "count": 1
+    },
+    {
+      "token": "差不多",
+      "count": 1
+    },
+    {
+      "token": "完成",
+      "count": 1
+    },
+    {
+      "token": "我想会",
+      "count": 1
+    },
+    {
+      "token": "建",
+      "count": 1
+    },
+    {
+      "token": "喷雾",
+      "count": 1
+    },
+    {
+      "token": "收集",
+      "count": 1
+    },
+    {
+      "token": "欢迎",
+      "count": 1
+    },
+    {
+      "token": "奇妙",
+      "count": 1
+    },
+    {
+      "token": "宇宙",
+      "count": 1
+    },
+    {
+      "token": "装满",
+      "count": 1
+    },
+    {
+      "token": "对抗",
+      "count": 1
+    },
+    {
+      "token": "暗黑",
+      "count": 1
+    },
+    {
+      "token": "最终",
+      "count": 1
+    },
+    {
+      "token": "实现",
+      "count": 1
+    },
+    {
+      "token": "愿望",
+      "count": 1
+    },
+    {
+      "token": "开开心心",
+      "count": 1
+    },
+    {
+      "token": "放下",
+      "count": 1
+    },
+    {
+      "token": "说说话",
+      "count": 1
+    },
+    {
+      "token": "爬来爬去",
+      "count": 1
+    },
+    {
+      "token": "看不清",
+      "count": 1
+    },
+    {
+      "token": "养猪",
+      "count": 1
+    },
+    {
+      "token": "饮料",
+      "count": 1
+    },
+    {
+      "token": "蚜虫",
+      "count": 1
+    },
+    {
+      "token": "化石",
+      "count": 1
+    },
+    {
+      "token": "班级",
+      "count": 1
+    },
+    {
+      "token": "工程师",
+      "count": 1
+    },
+    {
+      "token": "盖房子",
+      "count": 1
+    },
+    {
+      "token": "好暖心",
+      "count": 1
+    },
+    {
+      "token": "探险家",
+      "count": 1
+    },
+    {
+      "token": "学了",
+      "count": 1
+    },
+    {
+      "token": "讲个",
+      "count": 1
+    },
+    {
+      "token": "钥匙",
+      "count": 1
+    },
+    {
+      "token": "底下",
+      "count": 1
+    },
+    {
+      "token": "叼",
+      "count": 1
+    },
+    {
+      "token": "守",
+      "count": 1
+    },
+    {
+      "token": "房",
+      "count": 1
+    },
+    {
+      "token": "第二天",
+      "count": 1
+    },
+    {
+      "token": "留点",
+      "count": 1
+    },
+    {
+      "token": "吃光",
+      "count": 1
+    },
+    {
+      "token": "猜猜",
+      "count": 1
+    },
+    {
+      "token": "好人",
+      "count": 1
+    },
+    {
+      "token": "一群",
+      "count": 1
+    },
+    {
+      "token": "洒下",
+      "count": 1
+    },
+    {
+      "token": "龙舞",
+      "count": 1
+    },
+    {
+      "token": "摇起来",
+      "count": 1
+    },
+    {
+      "token": "刀",
+      "count": 1
+    },
+    {
+      "token": "腿软",
+      "count": 1
+    },
+    {
+      "token": "吓唬",
+      "count": 1
+    },
+    {
+      "token": "不敢",
+      "count": 1
+    },
+    {
+      "token": "喊",
+      "count": 1
+    },
+    {
+      "token": "快救",
+      "count": 1
+    },
+    {
+      "token": "冲过来",
+      "count": 1
+    },
+    {
+      "token": "哈哈笑",
+      "count": 1
+    },
+    {
+      "token": "哈哈哈哈",
+      "count": 1
+    },
+    {
+      "token": "通向",
+      "count": 1
+    },
+    {
+      "token": "路上",
+      "count": 1
+    },
+    {
+      "token": "唱道",
+      "count": 1
+    },
+    {
+      "token": "三次",
+      "count": 1
+    },
+    {
+      "token": "拍",
+      "count": 1
+    },
+    {
+      "token": "两下",
+      "count": 1
+    },
+    {
+      "token": "脚下",
+      "count": 1
+    },
+    {
+      "token": "树下",
+      "count": 1
+    },
+    {
+      "token": "玩耍",
+      "count": 1
+    },
+    {
+      "token": "新家",
+      "count": 1
+    },
+    {
+      "token": "我种",
+      "count": 1
+    },
+    {
+      "token": "螃蟹",
+      "count": 1
+    },
+    {
+      "token": "台风",
+      "count": 1
+    },
+    {
+      "token": "三只",
+      "count": 1
+    },
+    {
+      "token": "枪",
+      "count": 1
+    },
+    {
+      "token": "对付",
+      "count": 1
+    },
+    {
+      "token": "灭",
+      "count": 1
+    },
+    {
+      "token": "补充",
+      "count": 1
+    },
+    {
+      "token": "能量",
+      "count": 1
+    },
+    {
+      "token": "烧烤",
+      "count": 1
+    },
+    {
+      "token": "陷阱",
+      "count": 1
+    },
+    {
+      "token": "绳子",
+      "count": 1
+    },
+    {
+      "token": "钩子",
+      "count": 1
+    },
+    {
+      "token": "夸奖",
+      "count": 1
+    },
+    {
+      "token": "谈话",
+      "count": 1
+    },
+    {
+      "token": "特殊",
+      "count": 1
+    },
+    {
+      "token": "有百醋",
+      "count": 1
+    },
+    {
+      "token": "咕嘟嘟",
+      "count": 1
+    },
+    {
+      "token": "喝掉",
+      "count": 1
+    },
+    {
+      "token": "等会",
+      "count": 1
+    },
+    {
+      "token": "太挤",
+      "count": 1
+    },
+    {
+      "token": "开口",
+      "count": 1
+    },
+    {
+      "token": "小狮子",
+      "count": 1
+    },
+    {
+      "token": "五个",
+      "count": 1
+    },
+    {
+      "token": "可乐",
+      "count": 1
+    },
+    {
+      "token": "加上",
+      "count": 1
+    },
+    {
+      "token": "更甜",
+      "count": 1
+    },
+    {
+      "token": "太甜",
+      "count": 1
+    },
+    {
+      "token": "勺子",
+      "count": 1
+    },
+    {
+      "token": "加好",
+      "count": 1
+    },
+    {
+      "token": "气泡",
+      "count": 1
+    },
+    {
+      "token": "加太多",
+      "count": 1
+    },
+    {
+      "token": "那糖",
+      "count": 1
+    },
+    {
+      "token": "不下",
+      "count": 1
+    },
+    {
+      "token": "量",
+      "count": 1
+    },
+    {
+      "token": "有限",
+      "count": 1
+    },
+    {
+      "token": "要试",
+      "count": 1
+    },
+    {
+      "token": "就试",
+      "count": 1
+    },
+    {
+      "token": "手指尖",
+      "count": 1
+    },
+    {
+      "token": "小小的",
+      "count": 1
+    },
+    {
+      "token": "变胖",
+      "count": 1
+    },
+    {
+      "token": "很小",
+      "count": 1
+    },
+    {
+      "token": "武器",
+      "count": 1
+    },
+    {
+      "token": "打架",
+      "count": 1
+    },
+    {
+      "token": "之间",
+      "count": 1
+    },
+    {
+      "token": "老板",
+      "count": 1
+    },
+    {
+      "token": "气味",
+      "count": 1
+    },
+    {
+      "token": "线",
+      "count": 1
+    },
+    {
+      "token": "仔细",
+      "count": 1
+    },
+    {
+      "token": "背壳",
+      "count": 1
+    },
+    {
+      "token": "背着",
+      "count": 1
+    },
+    {
+      "token": "累不累",
+      "count": 1
+    },
+    {
+      "token": "进水",
+      "count": 1
+    },
+    {
+      "token": "好笑",
+      "count": 1
+    },
+    {
+      "token": "标志",
+      "count": 1
+    },
+    {
+      "token": "徽章",
+      "count": 1
+    },
+    {
+      "token": "眼罩",
+      "count": 1
+    },
+    {
+      "token": "露出",
+      "count": 1
+    },
+    {
+      "token": "科技",
+      "count": 1
+    },
+    {
+      "token": "反派",
+      "count": 1
+    },
+    {
+      "token": "大灰狼",
+      "count": 1
+    },
+    {
+      "token": "博士",
+      "count": 1
+    },
+    {
+      "token": "偷小",
+      "count": 1
+    },
+    {
+      "token": "水边",
+      "count": 1
+    },
+    {
+      "token": "面包",
+      "count": 1
+    },
+    {
+      "token": "气死我了",
+      "count": 1
+    },
+    {
+      "token": "那个游戏",
+      "count": 1
+    },
+    {
+      "token": "不讲道理",
+      "count": 1
+    },
+    {
+      "token": "欺负",
+      "count": 1
+    },
+    {
+      "token": "胡说",
+      "count": 1
+    },
+    {
+      "token": "稍后",
+      "count": 1
+    },
+    {
+      "token": "惹麻烦",
+      "count": 1
+    },
+    {
+      "token": "心里",
+      "count": 1
+    },
+    {
+      "token": "干脆",
+      "count": 1
+    },
+    {
+      "token": "不玩",
+      "count": 1
+    },
+    {
+      "token": "计较",
+      "count": 1
+    },
+    {
+      "token": "别扭",
+      "count": 1
+    },
+    {
+      "token": "我该",
+      "count": 1
+    },
+    {
+      "token": "平常",
+      "count": 1
+    },
+    {
+      "token": "讲会",
+      "count": 1
+    },
+    {
+      "token": "破坏",
+      "count": 1
+    },
+    {
+      "token": "讲讲",
+      "count": 1
+    },
+    {
+      "token": "温和",
+      "count": 1
+    },
+    {
+      "token": "会试",
+      "count": 1
+    },
+    {
+      "token": "很冲",
+      "count": 1
+    },
+    {
+      "token": "总说",
+      "count": 1
+    },
+    {
+      "token": "烧菜",
+      "count": 1
+    },
+    {
+      "token": "到手",
+      "count": 1
+    },
+    {
+      "token": "家里人",
+      "count": 1
+    },
+    {
+      "token": "吃得开",
+      "count": 1
+    },
+    {
+      "token": "心",
+      "count": 1
+    },
+    {
+      "token": "红烧肉",
+      "count": 1
+    },
+    {
+      "token": "每周",
+      "count": 1
+    },
+    {
+      "token": "一道",
+      "count": 1
+    },
+    {
+      "token": "菜",
+      "count": 1
+    },
+    {
+      "token": "带给",
+      "count": 1
+    },
+    {
+      "token": "煮肉",
+      "count": 1
+    },
+    {
+      "token": "肉",
+      "count": 1
+    },
+    {
+      "token": "记住",
+      "count": 1
+    },
+    {
+      "token": "厨艺",
+      "count": 1
+    },
+    {
+      "token": "小达人",
+      "count": 1
+    },
+    {
+      "token": "全是",
+      "count": 1
+    },
+    {
+      "token": "砖块",
+      "count": 1
+    },
+    {
+      "token": "倒塌",
+      "count": 1
+    },
+    {
+      "token": "薄荷",
+      "count": 1
+    },
+    {
+      "token": "晕高",
+      "count": 1
+    },
+    {
+      "token": "羽毛",
+      "count": 1
+    },
+    {
+      "token": "打盹",
+      "count": 1
+    },
+    {
+      "token": "毛",
+      "count": 1
+    },
+    {
+      "token": "光来",
+      "count": 1
+    },
+    {
+      "token": "吹气",
+      "count": 1
+    },
+    {
+      "token": "轻松",
+      "count": 1
+    },
+    {
+      "token": "方法",
+      "count": 1
+    },
+    {
+      "token": "变大",
+      "count": 1
+    },
+    {
+      "token": "鼓起勇气",
+      "count": 1
+    },
+    {
+      "token": "小船",
+      "count": 1
+    },
+    {
+      "token": "会浮",
+      "count": 1
+    },
+    {
+      "token": "水上",
+      "count": 1
+    },
+    {
+      "token": "装",
+      "count": 1
+    },
+    {
+      "token": "宽",
+      "count": 1
+    },
+    {
+      "token": "水有",
+      "count": 1
+    },
+    {
+      "token": "尖尖",
+      "count": 1
+    },
+    {
+      "token": "水好",
+      "count": 1
+    },
+    {
+      "token": "软",
+      "count": 1
+    },
+    {
+      "token": "把手",
+      "count": 1
+    },
+    {
+      "token": "那船",
+      "count": 1
+    },
+    {
+      "token": "船好",
+      "count": 1
+    },
+    {
+      "token": "船会",
+      "count": 1
+    },
+    {
+      "token": "造船",
+      "count": 1
+    },
+    {
+      "token": "模型船",
+      "count": 1
+    },
+    {
+      "token": "窗台上",
+      "count": 1
+    },
+    {
+      "token": "太远",
+      "count": 1
+    },
+    {
+      "token": "发热",
+      "count": 1
+    },
+    {
+      "token": "飘起来",
+      "count": 1
+    },
+    {
+      "token": "想学",
+      "count": 1
+    },
+    {
+      "token": "技能",
+      "count": 1
+    },
+    {
+      "token": "研究",
+      "count": 1
+    },
+    {
+      "token": "全家福",
+      "count": 1
+    },
+    {
+      "token": "中间",
+      "count": 1
+    },
+    {
+      "token": "小弟弟",
+      "count": 1
+    },
+    {
+      "token": "分给",
+      "count": 1
+    },
+    {
+      "token": "跳绳",
+      "count": 1
+    },
+    {
+      "token": "一家人",
+      "count": 1
+    },
+    {
+      "token": "美好",
+      "count": 1
+    },
+    {
+      "token": "挂满",
+      "count": 1
+    },
+    {
+      "token": "完整",
+      "count": 1
+    },
+    {
+      "token": "果子",
+      "count": 1
+    },
+    {
+      "token": "拿个",
+      "count": 1
+    },
+    {
+      "token": "事儿",
+      "count": 1
+    },
+    {
+      "token": "过不下去",
+      "count": 1
+    },
+    {
+      "token": "老说",
+      "count": 1
+    },
+    {
+      "token": "穷",
+      "count": 1
+    },
+    {
+      "token": "回事",
+      "count": 1
+    },
+    {
+      "token": "小石子",
+      "count": 1
+    },
+    {
+      "token": "保龄球",
+      "count": 1
+    },
+    {
+      "token": "当球",
+      "count": 1
+    },
+    {
+      "token": "石子",
+      "count": 1
+    },
+    {
+      "token": "目标",
+      "count": 1
+    },
+    {
+      "token": "打倒",
+      "count": 1
+    },
+    {
+      "token": "离得",
+      "count": 1
+    },
+    {
+      "token": "橡",
+      "count": 1
+    },
+    {
+      "token": "击球",
+      "count": 1
+    },
+    {
+      "token": "奖品",
+      "count": 1
+    },
+    {
+      "token": "第一名",
+      "count": 1
+    },
+    {
+      "token": "第二名",
+      "count": 1
+    },
+    {
+      "token": "第三名",
+      "count": 1
+    },
+    {
+      "token": "发个",
+      "count": 1
+    },
+    {
+      "token": "我得",
+      "count": 1
+    },
+    {
+      "token": "问下",
+      "count": 1
+    },
+    {
+      "token": "爸妈",
+      "count": 1
+    },
+    {
+      "token": "纸",
+      "count": 1
+    },
+    {
+      "token": "生命",
+      "count": 1
+    },
+    {
+      "token": "几种",
+      "count": 1
+    },
+    {
+      "token": "形",
+      "count": 1
+    },
+    {
+      "token": "摔倒",
+      "count": 1
+    },
+    {
+      "token": "膝盖",
+      "count": 1
+    },
+    {
+      "token": "有点痛",
+      "count": 1
+    },
+    {
+      "token": "还好",
+      "count": 1
+    },
+    {
+      "token": "鸟来",
+      "count": 1
+    },
+    {
+      "token": "会累",
+      "count": 1
+    },
+    {
+      "token": "专门",
+      "count": 1
+    },
+    {
+      "token": "热狗",
+      "count": 1
+    },
+    {
+      "token": "队长",
+      "count": 1
+    },
+    {
+      "token": "没人能",
+      "count": 1
+    },
+    {
+      "token": "斑点",
+      "count": 1
+    },
+    {
+      "token": "星空",
+      "count": 1
+    },
+    {
+      "token": "火把",
+      "count": 1
+    },
+    {
+      "token": "草原",
+      "count": 1
+    },
+    {
+      "token": "点火",
+      "count": 1
+    },
+    {
+      "token": "篝火",
+      "count": 1
+    },
+    {
+      "token": "唱歌跳舞",
+      "count": 1
+    },
+    {
+      "token": "不得了",
+      "count": 1
+    },
+    {
+      "token": "灯串",
+      "count": 1
+    },
+    {
+      "token": "唔",
+      "count": 1
+    },
+    {
+      "token": "清脆",
+      "count": 1
+    },
+    {
+      "token": "童谣",
+      "count": 1
+    },
+    {
+      "token": "充满",
+      "count": 1
+    },
+    {
+      "token": "叫彩彩",
+      "count": 1
+    },
+    {
+      "token": "梦幻",
+      "count": 1
+    },
+    {
+      "token": "面包屑",
+      "count": 1
+    },
+    {
+      "token": "吃剩",
+      "count": 1
+    },
+    {
+      "token": "清理",
+      "count": 1
+    },
+    {
+      "token": "好帮手",
+      "count": 1
+    },
+    {
+      "token": "迷宫",
+      "count": 1
+    },
+    {
+      "token": "列车",
+      "count": 1
+    },
+    {
+      "token": "放满",
+      "count": 1
+    },
+    {
+      "token": "要造",
+      "count": 1
+    },
+    {
+      "token": "家来",
+      "count": 1
+    },
+    {
+      "token": "动画片",
+      "count": 1
+    },
+    {
+      "token": "小孩",
+      "count": 1
+    },
+    {
+      "token": "推",
+      "count": 1
+    },
+    {
+      "token": "风好",
+      "count": 1
+    },
+    {
+      "token": "站不稳",
+      "count": 1
+    },
+    {
+      "token": "强壮",
+      "count": 1
+    },
+    {
+      "token": "风能",
+      "count": 1
+    },
+    {
+      "token": "降温",
+      "count": 1
+    },
+    {
+      "token": "有风",
+      "count": 1
+    },
+    {
+      "token": "云是",
+      "count": 1
+    },
+    {
+      "token": "灰色",
+      "count": 1
+    },
+    {
+      "token": "会要",
+      "count": 1
+    },
+    {
+      "token": "好事",
+      "count": 1
+    },
+    {
+      "token": "小伞",
+      "count": 1
+    },
+    {
+      "token": "淋",
+      "count": 1
+    },
+    {
+      "token": "地毯",
+      "count": 1
+    },
+    {
+      "token": "点糖",
+      "count": 1
+    },
+    {
+      "token": "蜗牛",
+      "count": 1
+    },
+    {
+      "token": "偷吃",
+      "count": 1
+    },
+    {
+      "token": "粘",
+      "count": 1
+    },
+    {
+      "token": "粘胶",
+      "count": 1
+    },
+    {
+      "token": "布",
+      "count": 1
+    },
+    {
+      "token": "跑不掉",
+      "count": 1
+    },
+    {
+      "token": "不听话",
+      "count": 1
+    },
+    {
+      "token": "冻住",
+      "count": 1
+    },
+    {
+      "token": "冰雕",
+      "count": 1
+    },
+    {
+      "token": "毛线帽",
+      "count": 1
+    },
+    {
+      "token": "冰冰",
+      "count": 1
+    },
+    {
+      "token": "偷过",
+      "count": 1
+    },
+    {
+      "token": "但树有",
+      "count": 1
+    },
+    {
+      "token": "可不可以",
+      "count": 1
+    },
+    {
+      "token": "晚霞",
+      "count": 1
+    },
+    {
+      "token": "平凡",
+      "count": 1
+    },
+    {
+      "token": "白点",
+      "count": 1
+    },
+    {
+      "token": "没得",
+      "count": 1
+    },
+    {
+      "token": "动力",
+      "count": 1
+    },
+    {
+      "token": "厨房",
+      "count": 1
+    },
+    {
+      "token": "地板",
+      "count": 1
+    },
+    {
+      "token": "赛道",
+      "count": 1
+    },
+    {
+      "token": "维修工",
+      "count": 1
+    },
+    {
+      "token": "从来",
+      "count": 1
+    },
+    {
+      "token": "宝库",
+      "count": 1
+    },
+    {
+      "token": "生日礼物",
+      "count": 1
+    },
+    {
+      "token": "梦想",
+      "count": 1
+    },
+    {
+      "token": "寻宝",
+      "count": 1
+    },
+    {
+      "token": "别人找",
+      "count": 1
+    },
+    {
+      "token": "吹泡泡",
+      "count": 1
+    },
+    {
+      "token": "肥皂水",
+      "count": 1
+    },
+    {
+      "token": "好后",
+      "count": 1
+    },
+    {
+      "token": "屋里",
+      "count": 1
+    },
+    {
+      "token": "更久",
+      "count": 1
+    },
+    {
+      "token": "滚动",
+      "count": 1
+    },
+    {
+      "token": "它会弹",
+      "count": 1
+    },
+    {
+      "token": "能弹",
+      "count": 1
+    },
+    {
+      "token": "膜",
+      "count": 1
+    },
+    {
+      "token": "薄",
+      "count": 1
+    },
+    {
+      "token": "亮亮",
+      "count": 1
+    },
+    {
+      "token": "别生气",
+      "count": 1
+    },
+    {
+      "token": "完全",
+      "count": 1
+    },
+    {
+      "token": "笑话",
+      "count": 1
+    },
+    {
+      "token": "说得对",
+      "count": 1
+    },
+    {
+      "token": "心事",
+      "count": 1
+    },
+    {
+      "token": "沮丧",
+      "count": 1
+    },
+    {
+      "token": "题目",
+      "count": 1
+    },
+    {
+      "token": "笨蛋",
+      "count": 1
+    },
+    {
+      "token": "画花",
+      "count": 1
+    },
+    {
+      "token": "花园",
+      "count": 1
+    },
+    {
+      "token": "叽",
+      "count": 1
+    },
+    {
+      "token": "黄昏",
+      "count": 1
+    },
+    {
+      "token": "温温",
+      "count": 1
+    },
+    {
+      "token": "萤火虫",
+      "count": 1
+    },
+    {
+      "token": "正要",
+      "count": 1
+    },
+    {
+      "token": "排才",
+      "count": 1
+    },
+    {
+      "token": "脸画",
+      "count": 1
+    },
+    {
+      "token": "画点",
+      "count": 1
+    },
+    {
+      "token": "家门口",
+      "count": 1
+    },
+    {
+      "token": "童话世界",
+      "count": 1
+    },
+    {
+      "token": "厚",
+      "count": 1
+    },
+    {
+      "token": "水从",
+      "count": 1
+    },
+    {
+      "token": "上天",
+      "count": 1
+    },
+    {
+      "token": "蒸发",
+      "count": 1
+    },
+    {
+      "token": "一场",
+      "count": 1
+    },
+    {
+      "token": "大冒险",
+      "count": 1
+    },
+    {
+      "token": "水循环",
+      "count": 1
+    },
+    {
+      "token": "那云能",
+      "count": 1
+    },
+    {
+      "token": "画脸",
+      "count": 1
+    },
+    {
+      "token": "我先",
+      "count": 1
+    },
+    {
+      "token": "装点",
+      "count": 1
+    },
+    {
+      "token": "走秀",
+      "count": 1
+    },
+    {
+      "token": "台子",
+      "count": 1
+    },
+    {
+      "token": "香香的",
+      "count": 1
+    },
+    {
+      "token": "喷嚏",
+      "count": 1
+    },
+    {
+      "token": "牢固",
+      "count": 1
+    },
+    {
+      "token": "食用",
+      "count": 1
+    },
+    {
+      "token": "混起来",
+      "count": 1
+    },
+    {
+      "token": "看会",
+      "count": 1
+    },
+    {
+      "token": "全混",
+      "count": 1
+    },
+    {
+      "token": "虫",
+      "count": 1
+    },
+    {
+      "token": "很长",
+      "count": 1
+    },
+    {
+      "token": "卡通",
+      "count": 1
+    },
+    {
+      "token": "小虫子",
+      "count": 1
+    },
+    {
+      "token": "会活",
+      "count": 1
+    },
+    {
+      "token": "能养",
+      "count": 1
+    },
+    {
+      "token": "蓝光",
+      "count": 1
+    },
+    {
+      "token": "树唱",
+      "count": 1
+    },
+    {
+      "token": "完美",
+      "count": 1
+    },
+    {
+      "token": "合唱团",
+      "count": 1
+    },
+    {
+      "token": "指挥",
+      "count": 1
+    },
+    {
+      "token": "完会",
+      "count": 1
+    },
+    {
+      "token": "送树",
+      "count": 1
+    },
+    {
+      "token": "肥料",
+      "count": 1
+    },
+    {
+      "token": "健康",
+      "count": 1
+    },
+    {
+      "token": "花儿乐队",
+      "count": 1
+    },
+    {
+      "token": "挂上去",
+      "count": 1
+    },
+    {
+      "token": "紫红",
+      "count": 1
+    },
+    {
+      "token": "咬了一口",
+      "count": 1
+    },
+    {
+      "token": "附近",
+      "count": 1
+    },
+    {
+      "token": "小蚂蚁",
+      "count": 1
+    },
+    {
+      "token": "蚁巢",
+      "count": 1
+    },
+    {
+      "token": "深",
+      "count": 1
+    },
+    {
+      "token": "忙",
+      "count": 1
+    },
+    {
+      "token": "搬家",
+      "count": 1
+    },
+    {
+      "token": "吸引",
+      "count": 1
+    },
+    {
+      "token": "难道",
+      "count": 1
+    },
+    {
+      "token": "发出声音",
+      "count": 1
+    },
+    {
+      "token": "赶紧",
+      "count": 1
+    },
+    {
+      "token": "查查",
+      "count": 1
+    },
+    {
+      "token": "花花",
+      "count": 1
+    },
+    {
+      "token": "鱼会",
+      "count": 1
+    },
+    {
+      "token": "咕噜噜",
+      "count": 1
+    },
+    {
+      "token": "帮树",
+      "count": 1
+    },
+    {
+      "token": "很会",
+      "count": 1
+    },
+    {
+      "token": "身后",
+      "count": 1
+    },
+    {
+      "token": "鸟和海",
+      "count": 1
+    },
+    {
+      "token": "海鸥",
+      "count": 1
+    },
+    {
+      "token": "变少",
+      "count": 1
+    },
+    {
+      "token": "飞飞飞",
+      "count": 1
+    },
+    {
+      "token": "尽头",
+      "count": 1
+    },
+    {
+      "token": "不知",
+      "count": 1
+    },
+    {
+      "token": "捉住",
+      "count": 1
+    },
+    {
+      "token": "换个",
+      "count": 1
+    },
+    {
+      "token": "甜甜的",
+      "count": 1
+    },
+    {
+      "token": "伸到",
+      "count": 1
+    },
+    {
+      "token": "月光",
+      "count": 1
+    },
+    {
+      "token": "找不着",
+      "count": 1
+    },
+    {
+      "token": "我妈",
+      "count": 1
+    },
+    {
+      "token": "没动",
+      "count": 1
+    },
+    {
+      "token": "跑会",
+      "count": 1
+    },
+    {
+      "token": "碰墙",
+      "count": 1
+    },
+    {
+      "token": "洗整",
+      "count": 1
+    },
+    {
+      "token": "专心",
+      "count": 1
+    },
+    {
+      "token": "嫉妒",
+      "count": 1
+    },
+    {
+      "token": "滴",
+      "count": 1
+    },
+    {
+      "token": "海贼王",
+      "count": 1
+    },
+    {
+      "token": "飞变",
+      "count": 1
+    },
+    {
+      "token": "橡胶",
+      "count": 1
+    },
+    {
+      "token": "火拳",
+      "count": 1
+    },
+    {
+      "token": "赶走",
+      "count": 1
+    },
+    {
+      "token": "灰灰",
+      "count": 1
+    },
+    {
+      "token": "漂",
+      "count": 1
+    },
+    {
+      "token": "样",
+      "count": 1
+    },
+    {
+      "token": "捏成",
+      "count": 1
+    },
+    {
+      "token": "鲸鱼",
+      "count": 1
+    },
+    {
+      "token": "浇水",
+      "count": 1
+    },
+    {
+      "token": "直",
+      "count": 1
+    },
+    {
+      "token": "浇",
+      "count": 1
+    },
+    {
+      "token": "会渴",
+      "count": 1
+    },
+    {
+      "token": "做事",
+      "count": 1
+    },
+    {
+      "token": "多事",
+      "count": 1
+    },
+    {
+      "token": "像乐高",
+      "count": 1
+    },
+    {
+      "token": "试一下",
+      "count": 1
+    },
+    {
+      "token": "竖起",
+      "count": 1
+    },
+    {
+      "token": "多长",
+      "count": 1
+    },
+    {
+      "token": "跳舞会",
+      "count": 1
+    },
+    {
+      "token": "一艘船",
+      "count": 1
+    },
+    {
+      "token": "最好",
+      "count": 1
+    },
+    {
+      "token": "杯水",
+      "count": 1
+    },
+    {
+      "token": "浑",
+      "count": 1
+    },
+    {
+      "token": "换成",
+      "count": 1
+    },
+    {
+      "token": "清水",
+      "count": 1
+    },
+    {
+      "token": "照过去",
+      "count": 1
+    },
+    {
+      "token": "小尾巴",
+      "count": 1
+    },
+    {
+      "token": "只用",
+      "count": 1
+    },
+    {
+      "token": "这太",
+      "count": 1
+    },
+    {
+      "token": "奇特",
+      "count": 1
+    },
+    {
+      "token": "做些",
+      "count": 1
+    },
+    {
+      "token": "滑溜溜",
+      "count": 1
+    },
+    {
+      "token": "会绕",
+      "count": 1
+    },
+    {
+      "token": "转来转去",
+      "count": 1
+    },
+    {
+      "token": "那红加",
+      "count": 1
+    },
+    {
+      "token": "黄会变",
+      "count": 1
+    },
+    {
+      "token": "那蓝加",
+      "count": 1
+    },
+    {
+      "token": "一双",
+      "count": 1
+    },
+    {
+      "token": "棒棒",
+      "count": 1
+    },
+    {
+      "token": "放学",
+      "count": 1
+    },
+    {
+      "token": "菜叶",
+      "count": 1
+    },
+    {
+      "token": "藏进",
+      "count": 1
+    },
+    {
+      "token": "书包",
+      "count": 1
+    },
+    {
+      "token": "藏久",
+      "count": 1
+    },
+    {
+      "token": "忘记",
+      "count": 1
+    },
+    {
+      "token": "打扫",
+      "count": 1
+    },
+    {
+      "token": "挪开",
+      "count": 1
+    },
+    {
+      "token": "全掉",
+      "count": 1
+    },
+    {
+      "token": "真实",
+      "count": 1
+    },
+    {
+      "token": "要接",
+      "count": 1
+    },
+    {
+      "token": "背上",
+      "count": 1
+    },
+    {
+      "token": "肩膀",
+      "count": 1
+    },
+    {
+      "token": "合理",
+      "count": 1
+    },
+    {
+      "token": "光点",
+      "count": 1
+    },
+    {
+      "token": "夜晚",
+      "count": 1
+    },
+    {
+      "token": "场景",
+      "count": 1
+    },
+    {
+      "token": "满天星",
+      "count": 1
+    },
+    {
+      "token": "飞猫",
+      "count": 1
+    },
+    {
+      "token": "画面感",
+      "count": 1
+    },
+    {
+      "token": "深蓝色",
+      "count": 1
+    },
+    {
+      "token": "记下来",
+      "count": 1
+    },
+    {
+      "token": "彩",
+      "count": 1
+    },
+    {
+      "token": "铅",
+      "count": 1
+    },
+    {
+      "token": "鲜艳",
+      "count": 1
+    },
+    {
+      "token": "太普通",
+      "count": 1
+    },
+    {
+      "token": "没什么",
+      "count": 1
+    },
+    {
+      "token": "我包",
+      "count": 1
+    },
+    {
+      "token": "全都",
+      "count": 1
+    },
+    {
+      "token": "捣乱",
+      "count": 1
+    },
+    {
+      "token": "塞",
+      "count": 1
+    },
+    {
+      "token": "惊喜",
+      "count": 1
+    },
+    {
+      "token": "我爸",
+      "count": 1
+    },
+    {
+      "token": "最有",
+      "count": 1
+    },
+    {
+      "token": "创意",
+      "count": 1
+    },
+    {
+      "token": "奖",
+      "count": 1
+    },
+    {
+      "token": "想法",
+      "count": 1
+    },
+    {
+      "token": "细节",
+      "count": 1
+    },
+    {
+      "token": "回忆",
+      "count": 1
+    },
+    {
+      "token": "终于",
+      "count": 1
+    },
+    {
+      "token": "没破",
+      "count": 1
+    },
+    {
+      "token": "纸巾",
+      "count": 1
+    },
+    {
+      "token": "这比",
+      "count": 1
+    },
+    {
+      "token": "炸",
+      "count": 1
+    },
+    {
+      "token": "号",
+      "count": 1
+    },
+    {
+      "token": "超快",
+      "count": 1
+    },
+    {
+      "token": "上盖个",
+      "count": 1
+    },
+    {
+      "token": "我教",
+      "count": 1
+    },
+    {
+      "token": "尖尖角",
+      "count": 1
+    },
+    {
+      "token": "天花板",
+      "count": 1
+    },
+    {
+      "token": "捉",
+      "count": 1
+    },
+    {
+      "token": "变小",
+      "count": 1
+    },
+    {
+      "token": "歌逗",
+      "count": 1
+    },
+    {
+      "token": "那唱",
+      "count": 1
+    },
+    {
+      "token": "尘是",
+      "count": 1
+    },
+    {
+      "token": "筐",
+      "count": 1
+    },
+    {
+      "token": "哪些地方",
+      "count": 1
+    },
+    {
+      "token": "窗帘",
+      "count": 1
+    },
+    {
+      "token": "来解",
+      "count": 1
+    },
+    {
+      "token": "猜得到",
+      "count": 1
+    },
+    {
+      "token": "坐下",
+      "count": 1
+    },
+    {
+      "token": "在家",
+      "count": 1
+    },
+    {
+      "token": "玩偶",
+      "count": 1
+    },
+    {
+      "token": "小熊",
+      "count": 1
+    },
+    {
+      "token": "王后",
+      "count": 1
+    },
+    {
+      "token": "还放",
+      "count": 1
+    },
+    {
+      "token": "花纸",
+      "count": 1
+    },
+    {
+      "token": "墙壁",
+      "count": 1
+    },
+    {
+      "token": "温柔",
+      "count": 1
+    },
+    {
+      "token": "摇篮曲",
+      "count": 1
+    },
+    {
+      "token": "睡",
+      "count": 1
+    },
+    {
+      "token": "小盒子",
+      "count": 1
+    },
+    {
+      "token": "地下室",
+      "count": 1
+    },
+    {
+      "token": "灰尘",
+      "count": 1
+    },
+    {
+      "token": "金子",
+      "count": 1
+    },
+    {
+      "token": "古代",
+      "count": 1
+    },
+    {
+      "token": "得学",
+      "count": 1
+    },
+    {
+      "token": "听不懂",
+      "count": 1
+    },
+    {
+      "token": "怕黑",
+      "count": 1
+    },
+    {
+      "token": "领队",
+      "count": 1
+    },
+    {
+      "token": "玩好",
+      "count": 1
+    },
+    {
+      "token": "隐形",
+      "count": 1
+    },
+    {
+      "token": "云堡",
+      "count": 1
+    },
+    {
+      "token": "信任",
+      "count": 1
+    },
+    {
+      "token": "好怕",
+      "count": 1
+    },
+    {
+      "token": "着手",
+      "count": 1
+    },
+    {
+      "token": "头发",
+      "count": 1
+    },
+    {
+      "token": "种树",
+      "count": 1
+    },
+    {
+      "token": "不难",
+      "count": 1
+    },
+    {
+      "token": "进云里",
+      "count": 1
+    },
+    {
+      "token": "雨水",
+      "count": 1
+    },
+    {
+      "token": "玩耶",
+      "count": 1
+    },
+    {
+      "token": "多一点",
+      "count": 1
+    },
+    {
+      "token": "它会用",
+      "count": 1
+    },
+    {
+      "token": "充气",
+      "count": 1
+    },
+    {
+      "token": "看来",
+      "count": 1
+    },
+    {
+      "token": "物品",
+      "count": 1
+    },
+    {
+      "token": "唱着歌",
+      "count": 1
+    },
+    {
+      "token": "公公",
+      "count": 1
+    },
+    {
+      "token": "晴天",
+      "count": 1
+    },
+    {
+      "token": "就会",
+      "count": 1
+    },
+    {
+      "token": "更亮",
+      "count": 1
+    },
+    {
+      "token": "美丽",
+      "count": 1
+    },
+    {
+      "token": "歌声",
+      "count": 1
+    },
+    {
+      "token": "晕头转向",
+      "count": 1
+    },
+    {
+      "token": "全世界",
+      "count": 1
+    },
+    {
+      "token": "最棒",
+      "count": 1
+    },
+    {
+      "token": "吃糖",
+      "count": 1
+    },
+    {
+      "token": "伤",
+      "count": 1
+    },
+    {
+      "token": "牙齿",
+      "count": 1
+    },
+    {
+      "token": "不值",
+      "count": 1
+    },
+    {
+      "token": "牙疼",
+      "count": 1
+    },
+    {
+      "token": "挺好玩",
+      "count": 1
+    },
+    {
+      "token": "橡皮泥",
+      "count": 1
+    },
+    {
+      "token": "脚",
+      "count": 1
+    },
+    {
+      "token": "扎",
+      "count": 1
+    },
+    {
+      "token": "小红",
+      "count": 1
+    },
+    {
+      "token": "领带",
+      "count": 1
+    },
+    {
+      "token": "开会",
+      "count": 1
+    },
+    {
+      "token": "摇来",
+      "count": 1
+    },
+    {
+      "token": "摇去",
+      "count": 1
+    },
+    {
+      "token": "慢舞",
+      "count": 1
+    },
+    {
+      "token": "晃",
+      "count": 1
+    },
+    {
+      "token": "不咚",
+      "count": 1
+    },
+    {
+      "token": "接",
+      "count": 1
+    },
+    {
+      "token": "降落",
+      "count": 1
+    },
+    {
+      "token": "天天",
+      "count": 1
+    },
+    {
+      "token": "当云",
+      "count": 1
+    },
+    {
+      "token": "全画",
+      "count": 1
+    },
+    {
+      "token": "还会画",
+      "count": 1
+    },
+    {
+      "token": "图画",
+      "count": 1
+    },
+    {
+      "token": "路线",
+      "count": 1
+    },
+    {
+      "token": "音乐家",
+      "count": 1
+    },
+    {
+      "token": "弹出来",
+      "count": 1
+    },
+    {
+      "token": "曲子",
+      "count": 1
+    },
+    {
+      "token": "魔棒",
+      "count": 1
+    },
+    {
+      "token": "装进",
+      "count": 1
+    },
+    {
+      "token": "三个",
+      "count": 1
+    },
+    {
+      "token": "画出",
+      "count": 1
+    },
+    {
+      "token": "字",
+      "count": 1
+    },
+    {
+      "token": "那花",
+      "count": 1
+    },
+    {
+      "token": "大笑",
+      "count": 1
+    },
+    {
+      "token": "快要",
+      "count": 1
+    },
+    {
+      "token": "连续",
+      "count": 1
+    },
+    {
+      "token": "很近",
+      "count": 1
+    },
+    {
+      "token": "通往",
+      "count": 1
+    },
+    {
+      "token": "树干",
+      "count": 1
+    },
+    {
+      "token": "树屋",
+      "count": 1
+    },
+    {
+      "token": "窗外",
+      "count": 1
+    },
+    {
+      "token": "那画",
+      "count": 1
+    },
+    {
+      "token": "很挤",
+      "count": 1
+    },
+    {
+      "token": "几亿年",
+      "count": 1
+    },
+    {
+      "token": "好长",
+      "count": 1
+    },
+    {
+      "token": "变太热",
+      "count": 1
+    },
+    {
+      "token": "烤焦",
+      "count": 1
+    },
+    {
+      "token": "大气层",
+      "count": 1
+    },
+    {
+      "token": "不停",
+      "count": 1
+    },
+    {
+      "token": "流汗",
+      "count": 1
+    },
+    {
+      "token": "配合",
+      "count": 1
+    },
+    {
+      "token": "板块",
+      "count": 1
+    },
+    {
+      "token": "表面",
+      "count": 1
+    },
+    {
+      "token": "碰得",
+      "count": 1
+    },
+    {
+      "token": "痛",
+      "count": 1
+    },
+    {
+      "token": "那山",
+      "count": 1
+    },
+    {
+      "token": "撞出来",
+      "count": 1
+    },
+    {
+      "token": "尤其",
+      "count": 1
+    },
+    {
+      "token": "隔壁",
+      "count": 1
+    },
+    {
+      "token": "小球",
+      "count": 1
+    },
+    {
+      "token": "翘",
+      "count": 1
+    },
+    {
+      "token": "拍球",
+      "count": 1
+    },
+    {
+      "token": "这幅",
+      "count": 1
+    },
+    {
+      "token": "一团",
+      "count": 1
+    },
+    {
+      "token": "乱糟糟",
+      "count": 1
+    },
+    {
+      "token": "开玩笑",
+      "count": 1
+    },
+    {
+      "token": "小气",
+      "count": 1
+    },
+    {
+      "token": "变色",
+      "count": 1
+    },
+    {
+      "token": "汁",
+      "count": 1
+    },
+    {
+      "token": "流下来",
+      "count": 1
+    },
+    {
+      "token": "摇晃",
+      "count": 1
+    },
+    {
+      "token": "就会动",
+      "count": 1
+    },
+    {
+      "token": "玩滑",
+      "count": 1
+    },
+    {
+      "token": "斜坡",
+      "count": 1
+    },
+    {
+      "token": "液体",
+      "count": 1
+    },
+    {
+      "token": "水嘛",
+      "count": 1
+    },
+    {
+      "token": "睡着",
+      "count": 1
+    },
+    {
+      "token": "蒸汽",
+      "count": 1
+    },
+    {
+      "token": "黑点",
+      "count": 1
+    },
+    {
+      "token": "好哇",
+      "count": 1
+    },
+    {
+      "token": "小小",
+      "count": 1
+    },
+    {
+      "token": "长尾巴",
+      "count": 1
+    },
+    {
+      "token": "施个",
+      "count": 1
+    },
+    {
+      "token": "冰冻",
+      "count": 1
+    },
+    {
+      "token": "火就会",
+      "count": 1
+    },
+    {
+      "token": "解",
+      "count": 1
+    },
+    {
+      "token": "半透明",
+      "count": 1
+    },
+    {
+      "token": "玻璃",
+      "count": 1
+    },
+    {
+      "token": "留在",
+      "count": 1
+    },
+    {
+      "token": "原处",
+      "count": 1
+    },
+    {
+      "token": "吊桥",
+      "count": 1
+    },
+    {
+      "token": "绳",
+      "count": 1
+    },
+    {
+      "token": "桥断",
+      "count": 1
+    },
+    {
+      "token": "我施个",
+      "count": 1
+    },
+    {
+      "token": "开锁",
+      "count": 1
+    },
+    {
+      "token": "咒咒",
+      "count": 1
+    },
+    {
+      "token": "水就会",
+      "count": 1
+    },
+    {
+      "token": "溶化",
+      "count": 1
+    },
+    {
+      "token": "想起",
+      "count": 1
+    },
+    {
+      "token": "外太空",
+      "count": 1
+    },
+    {
+      "token": "许愿",
+      "count": 1
+    },
+    {
+      "token": "伤心",
+      "count": 1
+    },
+    {
+      "token": "猫们",
+      "count": 1
+    },
+    {
+      "token": "会开",
+      "count": 1
+    },
+    {
+      "token": "秘密会议",
+      "count": 1
+    },
+    {
+      "token": "解决问题",
+      "count": 1
+    },
+    {
+      "token": "送给",
+      "count": 1
+    },
+    {
+      "token": "游戏规则",
+      "count": 1
+    },
+    {
+      "token": "没说",
+      "count": 1
+    },
+    {
+      "token": "好气",
+      "count": 1
+    },
+    {
+      "token": "倔",
+      "count": 1
+    },
+    {
+      "token": "不改",
+      "count": 1
+    },
+    {
+      "token": "憋着",
+      "count": 1
+    },
+    {
+      "token": "海盗",
+      "count": 1
+    },
+    {
+      "token": "标记",
+      "count": 1
+    },
+    {
+      "token": "大风大浪",
+      "count": 1
+    },
+    {
+      "token": "海上",
+      "count": 1
+    },
+    {
+      "token": "海怪",
+      "count": 1
+    },
+    {
+      "token": "停",
+      "count": 1
+    },
+    {
+      "token": "哪座",
+      "count": 1
+    },
+    {
+      "token": "岛",
+      "count": 1
+    },
+    {
+      "token": "听说",
+      "count": 1
+    },
+    {
+      "token": "有会",
+      "count": 1
+    },
+    {
+      "token": "盒子",
+      "count": 1
+    },
+    {
+      "token": "猜谜语",
+      "count": 1
+    },
+    {
+      "token": "金币",
+      "count": 1
+    },
+    {
+      "token": "揉成",
+      "count": 1
+    },
+    {
+      "token": "炫酷",
+      "count": 1
+    },
+    {
+      "token": "会教",
+      "count": 1
+    },
+    {
+      "token": "飞回去",
+      "count": 1
+    },
+    {
+      "token": "炫耀",
+      "count": 1
+    },
+    {
+      "token": "队",
+      "count": 1
+    },
+    {
+      "token": "村子",
+      "count": 1
+    },
+    {
+      "token": "赶跑",
+      "count": 1
+    },
+    {
+      "token": "想当",
+      "count": 1
+    },
+    {
+      "token": "卡",
+      "count": 1
+    },
+    {
+      "token": "没错",
+      "count": 1
+    },
+    {
+      "token": "地鼠",
+      "count": 1
+    },
+    {
+      "token": "城市",
+      "count": 1
+    },
+    {
+      "token": "装备",
+      "count": 1
+    },
+    {
+      "token": "显示",
+      "count": 1
+    },
+    {
+      "token": "马上",
+      "count": 1
+    },
+    {
+      "token": "救人",
+      "count": 1
+    },
+    {
+      "token": "包住",
+      "count": 1
+    },
+    {
+      "token": "带到",
+      "count": 1
+    },
+    {
+      "token": "识别",
+      "count": 1
+    },
+    {
+      "token": "好凉",
+      "count": 1
+    },
+    {
+      "token": "滑滑",
+      "count": 1
+    },
+    {
+      "token": "变硬",
+      "count": 1
+    },
+    {
+      "token": "拿雪来",
+      "count": 1
+    },
+    {
+      "token": "鸽子",
+      "count": 1
+    },
+    {
+      "token": "它家",
+      "count": 1
+    },
+    {
+      "token": "间谍",
+      "count": 1
+    },
+    {
+      "token": "变色龙",
+      "count": 1
+    },
+    {
+      "token": "竟然",
+      "count": 1
+    },
+    {
+      "token": "会换",
+      "count": 1
+    },
+    {
+      "token": "鲨鱼",
+      "count": 1
+    },
+    {
+      "token": "水下",
+      "count": 1
+    },
+    {
+      "token": "真正",
+      "count": 1
+    },
+    {
+      "token": "深海",
+      "count": 1
+    },
+    {
+      "token": "土",
+      "count": 1
+    },
+    {
+      "token": "变黄",
+      "count": 1
+    },
+    {
+      "token": "枯",
+      "count": 1
+    },
+    {
+      "token": "蹦出来",
+      "count": 1
+    },
+    {
+      "token": "怕冷",
+      "count": 1
+    },
+    {
+      "token": "缩回去",
+      "count": 1
+    },
+    {
+      "token": "很会藏",
+      "count": 1
+    },
+    {
+      "token": "很久",
+      "count": 1
+    },
+    {
+      "token": "挖",
+      "count": 1
+    },
+    {
+      "token": "树种",
+      "count": 1
+    },
+    {
+      "token": "子",
+      "count": 1
+    },
+    {
+      "token": "关心",
+      "count": 1
+    },
+    {
+      "token": "嘲笑",
+      "count": 1
+    },
+    {
+      "token": "半天",
+      "count": 1
+    },
+    {
+      "token": "酸",
+      "count": 1
+    },
+    {
+      "token": "时间",
+      "count": 1
+    },
+    {
+      "token": "奶牛",
+      "count": 1
+    },
+    {
+      "token": "奶昔",
+      "count": 1
+    },
+    {
+      "token": "最爱甜",
+      "count": 1
+    },
+    {
+      "token": "发现自己",
+      "count": 1
+    },
+    {
+      "token": "来看",
+      "count": 1
+    },
+    {
+      "token": "鼓掌",
+      "count": 1
+    },
+    {
+      "token": "音符",
+      "count": 1
+    },
+    {
+      "token": "连天",
+      "count": 1
+    },
+    {
+      "token": "晚会",
+      "count": 1
+    },
+    {
+      "token": "大声",
+      "count": 1
+    },
+    {
+      "token": "山后",
+      "count": 1
+    },
+    {
+      "token": "围成",
+      "count": 1
+    },
+    {
+      "token": "圈圈",
+      "count": 1
+    },
+    {
+      "token": "很累",
+      "count": 1
+    },
+    {
+      "token": "风来",
+      "count": 1
+    },
+    {
+      "token": "鸟会",
+      "count": 1
+    },
+    {
+      "token": "那鱼",
+      "count": 1
+    },
+    {
+      "token": "离开",
+      "count": 1
+    },
+    {
+      "token": "那土",
+      "count": 1
+    },
+    {
+      "token": "蚯蚓",
+      "count": 1
+    },
+    {
+      "token": "土会",
+      "count": 1
+    },
+    {
+      "token": "讲完",
+      "count": 1
+    },
+    {
+      "token": "洞穴",
+      "count": 1
+    },
+    {
+      "token": "不小",
+      "count": 1
+    },
+    {
+      "token": "纪念",
+      "count": 1
+    },
+    {
+      "token": "上课",
+      "count": 1
+    },
+    {
+      "token": "好受",
+      "count": 1
+    },
+    {
+      "token": "目的",
+      "count": 1
+    },
+    {
+      "token": "太乱",
+      "count": 1
+    },
+    {
+      "token": "线条",
+      "count": 1
+    },
+    {
+      "token": "哒",
+      "count": 1
+    },
+    {
+      "token": "躲开",
+      "count": 1
+    },
+    {
+      "token": "天画",
+      "count": 1
+    },
+    {
+      "token": "画才",
+      "count": 1
+    },
+    {
+      "token": "画颗",
+      "count": 1
+    },
+    {
+      "token": "我超",
+      "count": 1
+    },
+    {
+      "token": "划过",
+      "count": 1
+    },
+    {
+      "token": "加些",
+      "count": 1
+    },
+    {
+      "token": "松树",
+      "count": 1
+    },
+    {
+      "token": "鸟飞",
+      "count": 1
+    },
+    {
+      "token": "远不累",
+      "count": 1
+    },
+    {
+      "token": "指南针",
+      "count": 1
+    },
+    {
+      "token": "好好看",
+      "count": 1
+    },
+    {
+      "token": "南",
+      "count": 1
+    },
+    {
+      "token": "看成",
+      "count": 1
+    },
+    {
+      "token": "北",
+      "count": 1
+    },
+    {
+      "token": "河流",
+      "count": 1
+    },
+    {
+      "token": "起个",
+      "count": 1
+    },
+    {
+      "token": "小山",
+      "count": 1
+    },
+    {
+      "token": "松果",
+      "count": 1
+    },
+    {
+      "token": "喝茶",
+      "count": 1
+    },
+    {
+      "token": "比手",
+      "count": 1
+    },
+    {
+      "token": "看清",
+      "count": 1
+    },
+    {
+      "token": "做网",
+      "count": 1
+    },
+    {
+      "token": "美的",
+      "count": 1
+    },
+    {
+      "token": "织",
+      "count": 1
+    },
+    {
+      "token": "蜘蛛丝",
+      "count": 1
+    },
+    {
+      "token": "结实",
+      "count": 1
+    },
+    {
+      "token": "黏住",
+      "count": 1
+    },
+    {
+      "token": "能织",
+      "count": 1
+    },
+    {
+      "token": "累坏",
+      "count": 1
+    },
+    {
+      "token": "长高",
+      "count": 1
+    },
+    {
+      "token": "烫烫",
+      "count": 1
+    },
+    {
+      "token": "高高",
+      "count": 1
+    },
+    {
+      "token": "呼呼",
+      "count": 1
+    },
+    {
+      "token": "对不起",
+      "count": 1
+    },
+    {
+      "token": "大喊",
+      "count": 1
+    },
+    {
+      "token": "凶巴巴",
+      "count": 1
+    },
+    {
+      "token": "不够",
+      "count": 1
+    },
+    {
+      "token": "困难",
+      "count": 1
+    },
+    {
+      "token": "手里",
+      "count": 1
+    },
+    {
+      "token": "光耶",
+      "count": 1
+    },
+    {
+      "token": "握紧",
+      "count": 1
+    },
+    {
+      "token": "平时",
+      "count": 1
+    },
+    {
+      "token": "暖",
+      "count": 1
+    },
+    {
+      "token": "我想试",
+      "count": 1
+    },
+    {
+      "token": "念",
+      "count": 1
+    },
+    {
+      "token": "一秒钟",
+      "count": 1
+    },
+    {
+      "token": "是从",
+      "count": 1
+    },
+    {
+      "token": "功课",
+      "count": 1
+    },
+    {
+      "token": "猫会用",
+      "count": 1
+    },
+    {
+      "token": "吃零食",
+      "count": 1
+    },
+    {
+      "token": "自动",
+      "count": 1
+    },
+    {
+      "token": "派",
+      "count": 1
+    },
+    {
+      "token": "机装",
+      "count": 1
+    },
+    {
+      "token": "满",
+      "count": 1
+    },
+    {
+      "token": "抢走",
+      "count": 1
+    },
+    {
+      "token": "树画",
+      "count": 1
+    },
+    {
+      "token": "红笔",
+      "count": 1
+    },
+    {
+      "token": "写不出",
+      "count": 1
+    },
+    {
+      "token": "脸脸",
+      "count": 1
+    },
+    {
+      "token": "早上好",
+      "count": 1
+    }
+  ]
+}

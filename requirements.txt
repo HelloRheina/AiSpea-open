@@ -1,0 +1,34 @@
+# Core ML
+torch
+torchvision
+torchaudio
+transformers
+sentence-transformers
+accelerate
+bitsandbytes
+peft
+numpy
+
+# RAG
+faiss-cpu
+
+# NLP
+jieba
+
+# Dashboard
+streamlit
+streamlit-shadcn-ui
+plotly
+wordcloud
+pandas
+matplotlib
+Pillow
+
+# Data
+huggingface_hub
+datasets
+tqdm
+
+# Translation (optional, for translate-goemo.py)
+openai
+python-dotenv

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+hf_key
+
+# Model artifacts
+backup_code/
+distilbert-zh-lora-concat/
+distilbert-ling-lora/
+rag/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/
